@@ -8,7 +8,7 @@ from appium.webdriver.common.multi_action import MultiAction
 from emaappiumclient.conf.globalconf import emaconfiguration
 
 class driver (object):
-        
+
     def __init__(self):
         self.name = "EMA appium client"
         self.driver = None
@@ -41,7 +41,7 @@ class driver (object):
         return False
 
     def takeScreenshotAsPNGFileByPath(self, filepath):
-        if self.driver is not None and filepath is not None: 
+        if self.driver is not None and filepath is not None:
             png_data = self.takeScreenshotAsPNGData()
             if png_data is not None:
                 isabspath = os.path.isabs(filepath)
@@ -52,11 +52,11 @@ class driver (object):
                 path = dir_name[0]
                 name = dir_name[1]
 
-                if os.path.exists(path) == False: 
+                if os.path.exists(path) == False:
                     os.mkdir(path)
-                
+
                 path = path + "/screenshots"
-                if os.path.exists(path) == False: 
+                if os.path.exists(path) == False:
                     os.mkdir(path)
 
                 if emaconfiguration.platform == 'iOS':
@@ -74,7 +74,7 @@ class driver (object):
                 workspace = os.getcwd()
                 os.chdir(path)
 
-                png_file = file(name, 'wb')
+                png_file = open(name, 'wb')
                 png_file.write(png_data)
                 png_file.close()
                 os.chdir(workspace)
@@ -89,9 +89,9 @@ class driver (object):
             if data is None:
                 return None
             return base64.b64encode(data)
-        
 
-    def screenshot_base64(self, filePath, screenshotName): 
+
+    def screenshot_base64(self, filePath, screenshotName):
         platform = emaconfiguration.platform
         path = filePath + "/screenshots/" + platform + "/" + screenshotName + ".png"
         with open(path, 'rb') as file:
@@ -110,7 +110,7 @@ class driver (object):
         if self.driver is not None:
             self.driver.implicitly_wait(millsencondsTimeout)
             return True
-        return False  
+        return False
 
     def getCurrentOrientation(self):
         if self.driver is not None:
@@ -122,17 +122,17 @@ class driver (object):
             self.driver.orientation = orientation
             return True
         return False
-    
+
     def getCurrentLocation(self):
         if self.driver is not None:
             return self.driver.location()
-        return None 
+        return None
 
     def setCurrentLocation(self, latitude, longitude, altitude):
         if self.driver is not None:
             self.driver.setLocation(latitude, longitude, altitude)
             return True
-        return False 
+        return False
 
     def getLogType(self):
         if self.driver is not None:
@@ -164,10 +164,10 @@ class driver (object):
     def sendAppToBackground(self, secondsDuration):
         if self.driver is not None:
             self.driver.background_app(secondsDuration)
-    
+
     def killApp(self):
         if self.driver is not None:
-            self.driver.close_app()   
+            self.driver.close_app()
 
     def reset(self):
         if self.driver is not None:
@@ -221,7 +221,7 @@ class driver (object):
         # Eg. "package.name:id/android"
         #
         # XPath: Available on both Android and iOS. But not recommended on iOS. (too slow via XCTest). It's ok on Android
-        # Eg. 
+        # Eg.
         # Abs path: "className/className/className/className"
         # Relative path: "//className"
         # UI element index: "//className[index]"
@@ -259,17 +259,17 @@ class driver (object):
             deviceModel = ''
             type = ''
             queryString = ''
-            if queryParameters.has_key('Platform'):
+            if queryParameters.get('Platform'):
                 platform = queryParameters['Platform']
-            
+
             # DevicModel is optional
-            if queryParameters.has_key('DeviceModel'):
+            if queryParameters.get('DeviceModel'):
                 deviceModel = queryParameters['DeviceModel']
 
-            if queryParameters.has_key('Type'):
+            if queryParameters.get('Type'):
                 type = queryParameters['Type']
 
-            if queryParameters.has_key('QueryString'):
+            if queryParameters.get('QueryString'):
                 queryString = queryParameters['QueryString']
 
             if queryString == '' or queryString is None:
@@ -284,7 +284,7 @@ class driver (object):
 
                 if type == 'iOSClassChain':
                     return self.driver.find_element_by_ios_class_chain(queryString)
-                 
+
             elif platform == 'android':
                 if type not in ['ClassName', 'XPath', 'AccessbilityID', 'AndroidResourceID', 'AndroidUIAutomator']:
                     return None
@@ -301,13 +301,13 @@ class driver (object):
                 return self.driver.find_element_by_class_name(queryString)
 
             if type == 'XPath':
-                return self.driver.find_element_by_xpath(queryString)  
+                return self.driver.find_element_by_xpath(queryString)
 
             if type == 'AccessbilityID':
                 return self.driver.find_element_by_accessibility_id(queryString)
 
 
-        return None    
+        return None
 
 
     """
@@ -326,7 +326,7 @@ class driver (object):
         # Eg. "package.name:id/android"
         #
         # XPath: Available on both Android and iOS. But not recommended on iOS. (too slow via XCTest). It's ok on Android
-        # Eg. 
+        # Eg.
         # Abs path: "className/className/className/className"
         # Relative path: "//className"
         # UI element index: "//className[index]"
@@ -365,7 +365,7 @@ class driver (object):
             queryString = ''
             if queryParameters.has_key('Platform'):
                 platform = queryParameters['Platform']
-            
+
             # DevicModel is optional
             if queryParameters.has_key('DeviceModel'):
                 deviceModel = queryParameters['DeviceModel']
@@ -388,7 +388,7 @@ class driver (object):
 
                 if type == 'iOSClassChain':
                     return self.driver.find_elements_by_ios_class_chain(queryString)
-                 
+
             elif platform == 'android':
                 if type not in ['ClassName', 'XPath', 'AccessbilityID', 'AndroidResourceID', 'AndroidUIAutomator']:
                     return None
@@ -405,7 +405,7 @@ class driver (object):
                 return self.driver.find_elements_by_class_name(queryString)
 
             if type == 'XPath':
-                return self.driver.find_elements_by_xpath(queryString)  
+                return self.driver.find_elements_by_xpath(queryString)
 
             if type == 'AccessbilityID':
                 return self.driver.find_elements_by_accessibility_id(queryString)
@@ -432,7 +432,7 @@ class driver (object):
     def getName(self, view):
         if view is not None:
             return view.tag_name
-        return None 
+        return None
 
     def getAttribute(self, view, attribute):
         if view is not None and attribute is not None:
@@ -462,7 +462,7 @@ class driver (object):
     def sizeOfView(self, view):
         if view is not None:
             return view.size
-        return None 
+        return None
 
     def getWebElementCSSValue(self, view, cssKey):
         if view is not None and cssKey is not None:
@@ -471,7 +471,7 @@ class driver (object):
 
     def getCurrentContext(self):
         return self.driver.current_context
-    
+
     def getAllContexts(self):
         return self.driver.contexts
 
@@ -565,7 +565,7 @@ class driver (object):
         if delayPerform == False:
             action.perform()
             return action
-        return None 
+        return None
 
     def scroolOnView(self, view, xOffset, yOffset, touchActions = None, delayPerform = False):
         action = None
@@ -589,8 +589,8 @@ class driver (object):
         if delayPerform == False:
             action.perform()
             return action
-        return None              
-        
+        return None
+
     def multiTouchPerform(self, *touchs):
         ma = MultiAction(self.driver)
         for touch in touchs:
@@ -599,60 +599,3 @@ class driver (object):
 
     def waitForSeconds(self, seconds):
         time.sleep(seconds)
-
-
-        
-        
-
-
-    
-
-    
-       
-
-    
-    
-
-           
-
-
-
-
-
-
-
-    
-
-
-        
-
-
-    
-
-    
-
-    
-
-    
-
-
-
-
-    
-        
-        
-
-    
-
-    
-
-
-        
-    
-
-
-
-    
-
-    
-       
