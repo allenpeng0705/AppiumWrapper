@@ -363,17 +363,17 @@ class driver (object):
             deviceModel = ''
             type = ''
             queryString = ''
-            if queryParameters.has_key('Platform'):
+            if queryParameters.get('Platform'):
                 platform = queryParameters['Platform']
 
             # DevicModel is optional
-            if queryParameters.has_key('DeviceModel'):
+            if queryParameters.get('DeviceModel'):
                 deviceModel = queryParameters['DeviceModel']
 
-            if queryParameters.has_key('Type'):
+            if queryParameters.get('Type'):
                 type = queryParameters['Type']
 
-            if queryParameters.has_key('QueryString'):
+            if queryParameters.get('QueryString'):
                 queryString = queryParameters['QueryString']
 
             if queryString == '' or queryString is None:
