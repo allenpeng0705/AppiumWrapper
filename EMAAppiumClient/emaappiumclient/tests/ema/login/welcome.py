@@ -23,6 +23,13 @@ class welcome(baseTest):
 
     def test_ui(self):
         self.driver.waitForSeconds(5)
+        # permission allow
+        if self.driver.name == "EMA Android driver":
+            queryDict = queryFactory().getQuery().app_permission_allow()
+            app_permission_allow = self.driver.findView(queryDict)
+            self.driver.clickOnView(app_permission_allow)
+
+        # save welcome png.
         filename = self.filePath() + "/" + "welcome.png"
         self.driver.takeScreenshotAsPNGFileByPath(filename)
 
@@ -66,8 +73,8 @@ class welcome(baseTest):
         screenshotBase64 = self.driver.screenshot_base64(self.filePath(), 'anonymousMain')
         self.assertTrue(imgBase64 == screenshotBase64)
     """
-    
-        
+
+
 suite = testLoader().loadAllTestsFromClass(False, None, welcome)
 unittest.TextTestRunner(verbosity=2).run(suite)
 driverFactory().stopDriver()

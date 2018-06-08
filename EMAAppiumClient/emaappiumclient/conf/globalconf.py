@@ -5,7 +5,7 @@ from emaappiumclient.util.singletonDecorator import singletonDecorator
 @singletonDecorator
 class emaconfiguration (object):
     # can be iOS or android
-    platform = 'iOS'
+    platform = 'android'
     appium_svr_url = 'http://127.0.0.1:4723/wd/hub'
     iOS_capabilities = {
         #'xcodeOrgId': 'VW379TB6DM',
@@ -23,8 +23,8 @@ class emaconfiguration (object):
 
     android_capabilities = {
         "platformName": 'Android',
-        "platformVersion": '8.1.0',
-        "deviceName": '84B7N16302004410',
+        "platformVersion": '7.0',
+        "deviceName": 'Android Emulator',
         "appPackage": 'com.everbridge.mobile.iv.recipient',
         "appActivity": '.ui.SplashActivity',
         "unicodeKeyboard": True,

@@ -47,6 +47,12 @@ class androidQuery(query):
         QueryString: 'xxxxxx',    -- Value based on the above Type
     }
     """
+    def app_permission_allow(self):
+        return {
+            'Platform': 'android',
+            'Type': 'AndroidResourceID',
+            'QueryString': 'com.android.packageinstaller:id/permission_allow_button'
+        }
 
     def login_welcome_loginBtn(self):
         return {
