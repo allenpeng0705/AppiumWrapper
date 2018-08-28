@@ -1,9 +1,10 @@
-from emaappiumclient.util.driver.driver import driver
-from emaappiumclient.conf.globalconf import emaconfiguration
 from appium import webdriver
 
-class androiddriver (driver):
-        
+from emaappiumclient.conf.globalconf import emaconfiguration
+from emaappiumclient.util.driver.driver import driver
+
+
+class androiddriver(driver):
     def __init__(self):
         self.name = "EMA Android driver"
         conf = emaconfiguration()
@@ -42,7 +43,7 @@ class androiddriver (driver):
     def toggleLocationService(self):
         if self.driver is not None:
             self.driver.toggle_location_services()
-    
+
     def pressKey(self, keycode):
         if self.driver is not None:
             self.driver.press_keycode(keycode)
@@ -54,9 +55,3 @@ class androiddriver (driver):
     def openNotificationsOnEmulator(self):
         if self.driver is not None:
             self.driver.open_notifications()
-              
-
-        
-
-
-    

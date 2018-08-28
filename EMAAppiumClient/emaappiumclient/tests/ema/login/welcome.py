@@ -1,12 +1,8 @@
-import unittest
 import os
-import json
-from time import sleep
+import unittest
 
-from emaappiumclient.util.driver.driver import driver
-from emaappiumclient.util.driver.driverFactory import driverFactory
-from emaappiumclient.tests.ema.query import query
 from emaappiumclient.tests.ema.queryFactory import queryFactory
+from emaappiumclient.util.driver.driverFactory import driverFactory
 from emaappiumclient.util.unittest.baseTest import baseTest
 from emaappiumclient.util.unittest.testLoader import testLoader
 
@@ -22,12 +18,9 @@ class welcome(baseTest):
         pass
 
     def test_ui(self):
-        self.driver.waitForSeconds(5)
-        # permission allow
-        if self.driver.name == "EMA Android driver":
-            queryDict = queryFactory().getQuery().app_permission_allow()
-            app_permission_allow = self.driver.findView(queryDict)
-            self.driver.clickOnView(app_permission_allow)
+        self.driver.waitForSeconds(2)
+
+        welcome.allow_permission(self)
 
         # save welcome png.
         filename = self.filePath() + "/" + "welcome.png"
@@ -35,24 +28,26 @@ class welcome(baseTest):
 
         imgBase64 = self.driver.page_base64(self.filePath(), 'welcome')
         screenshotBase64 = self.driver.screenshot_base64(self.filePath(), 'welcome')
+
         self.assertTrue(imgBase64 == screenshotBase64)
 
     def test_login_btn(self):
-        queryDict = queryFactory().getQuery().login_welcome_loginBtn()
-        login_btn = self.driver.findView(queryDict)
+        query = queryFactory().getQuery()
+        # click login button
+        login_btn = self.driver.findView(query.login_welcome_loginBtn())
         self.driver.clickOnView(login_btn)
-        self.driver.waitForSeconds(5)
+        self.driver.waitForSeconds(2)
+        # save login page
         filename = self.filePath() + "/" + "login.png"
         self.driver.takeScreenshotAsPNGFileByPath(filename)
-
+        # contrast
         imgBase64 = self.driver.page_base64(self.filePath(), 'login')
         screenshotBase64 = self.driver.screenshot_base64(self.filePath(), 'login')
-
-        query_dict = queryFactory().getQuery().login_login_backBtn()
-        back_btn = self.driver.findView(query_dict)
+        self.assertTrue(imgBase64 == screenshotBase64)
+        # click back
+        back_btn = self.driver.findView(query.login_login_backBtn())
         self.driver.clickOnView(back_btn)
 
-        self.assertTrue(imgBase64 == screenshotBase64)
         """
         queryDict = queryFactory().getQuery().login_login_SSOBtn()
         sso_btn = self.driver.findView(queryDict)
@@ -61,10 +56,11 @@ class welcome(baseTest):
         """
 
     """
-    def test_startuing_btn(self):
+    def test_start_using_btn(self):
         queryDict = queryFactory().getQuery().login_welcome_startUsingBtn()
         startUsing_btn = self.driver.findView(queryDict)
         self.driver.clickOnView(startUsing_btn)
+        
         self.driver.waitForSeconds(5)
         filename = self.filePath() + "/" + "anonymousMain.png"
         self.driver.takeScreenshotAsPNGFileByPath(filename)
@@ -73,6 +69,18 @@ class welcome(baseTest):
         screenshotBase64 = self.driver.screenshot_base64(self.filePath(), 'anonymousMain')
         self.assertTrue(imgBase64 == screenshotBase64)
     """
+
+    def allow_permission(self):
+        # permission allow
+        if self.driver.name == "EMA Android driver":
+            queryDict = queryFactory().getQuery().app_permission_allow()
+            if self.driver.viewIsVisibily(queryDict):
+                app_permission_allow = self.driver.findView(queryDict)
+                if app_permission_allow is not None:
+                    self.driver.clickOnView(app_permission_allow)
+                    self.driver.waitForSeconds(2)
+        else:
+            pass
 
 
 suite = testLoader().loadAllTestsFromClass(False, None, welcome)
