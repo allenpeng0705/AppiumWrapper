@@ -50,10 +50,8 @@ class login(baseTest):
         back_btn = self.driver.findView(query.login_sso_backBtn())
         self.driver.clickOnView(back_btn)
 
-
-def test_last_test(self):
-    pass
-
+    def test_last_test(self):
+        pass
 
 suite = testLoader().loadAllTestsFromClass(False, None, welcome)
 suite = testLoader().loadAllTestsFromClass(False, suite, login)
