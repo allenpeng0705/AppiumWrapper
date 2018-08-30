@@ -1,14 +1,15 @@
+import base64
 import os
 import time
-import shutil
-import base64
-from appium import webdriver
-from selenium.webdriver import TouchActions
+
 from appium.webdriver.common.multi_action import MultiAction
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver import TouchActions
+
 from emaappiumclient.conf.globalconf import emaconfiguration
 
-class driver (object):
 
+class driver(object):
     def __init__(self):
         self.name = "EMA appium client"
         self.driver = None
@@ -89,7 +90,6 @@ class driver (object):
             if data is None:
                 return None
             return base64.b64encode(data)
-
 
     def screenshot_base64(self, filePath, screenshotName):
         platform = emaconfiguration.platform
@@ -205,6 +205,11 @@ class driver (object):
             return self.driver.device_time()
         return None
 
+    def getPageSource(self):
+        if self.driver is not None:
+            return self.driver.page_source
+        return None
+
     """
     The unified interface for looking for UI elements on both iOS and android. You can search the view
     via AccessibilityID, ClassName, id, XPath, name, coordinates.
@@ -253,6 +258,7 @@ class driver (object):
         yPos:'',
     }
     """
+
     def findView(self, queryParameters):
         if self.driver is not None and queryParameters is not None:
             platform = ''
@@ -306,9 +312,7 @@ class driver (object):
             if type == 'AccessbilityID':
                 return self.driver.find_element_by_accessibility_id(queryString)
 
-
         return None
-
 
     """
     The unified interface for looking for UI elements on both iOS and android. You can search the view
@@ -357,6 +361,7 @@ class driver (object):
 
     }
     """
+
     def findViews(self, queryParameters):
         if self.driver is not None and queryParameters is not None:
             platform = ''
@@ -411,6 +416,13 @@ class driver (object):
                 return self.driver.find_elements_by_accessibility_id(queryString)
 
         return None
+
+    def viewIsVisibily(self, queryParameters):
+        try:
+            self.findView(queryParameters)
+            return True
+        except NoSuchElementException:
+            return False
 
     def clickOnView(self, view):
         if view is not None:
@@ -479,7 +491,7 @@ class driver (object):
         if contextName is not None:
             self.driver.switch_to.context(contextName)
 
-    def tapOnView(self, view, touchActions = None, delayPerform = False):
+    def tapOnView(self, view, touchActions=None, delayPerform=False):
         if view is not None:
             action = None
             if touchActions is None:
@@ -492,7 +504,7 @@ class driver (object):
             return action
         return None
 
-    def doubleTapOnView(self, view, touchActions = None, delayPerform = False):
+    def doubleTapOnView(self, view, touchActions=None, delayPerform=False):
         if view is not None:
             action = None
             if touchActions is None:
@@ -505,7 +517,7 @@ class driver (object):
             return action
         return None
 
-    def longPressOnView(self, view, touchActions = None, delayPerform = False):
+    def longPressOnView(self, view, touchActions=None, delayPerform=False):
         if view is not None:
             action = None
             if touchActions is None:
@@ -518,7 +530,7 @@ class driver (object):
             return action
         return None
 
-    def swipeOnView(self, view, xOffset, yOffset, speed, touchActions = None, delayPerform = False):
+    def swipeOnView(self, view, xOffset, yOffset, speed, touchActions=None, delayPerform=False):
         if view is not None:
             action = None
             if touchActions is None:
@@ -531,7 +543,7 @@ class driver (object):
             return action
         return None
 
-    def touchDown(self, xPos, yPos, touchActions = None, delayPerform = False):
+    def touchDown(self, xPos, yPos, touchActions=None, delayPerform=False):
         action = None
         if touchActions is None:
             action = TouchActions(self.driver)
@@ -543,7 +555,7 @@ class driver (object):
             return action
         return None
 
-    def touchUp(self, xPos, yPos, touchActions = None, delayPerform = False):
+    def touchUp(self, xPos, yPos, touchActions=None, delayPerform=False):
         action = None
         if touchActions is None:
             action = TouchActions(self.driver)
@@ -555,7 +567,7 @@ class driver (object):
             return action
         return None
 
-    def moveTo(self, xPos, yPos, touchActions = None, delayPerform = False):
+    def moveTo(self, xPos, yPos, touchActions=None, delayPerform=False):
         action = None
         if touchActions is None:
             action = TouchActions(self.driver)
@@ -567,7 +579,7 @@ class driver (object):
             return action
         return None
 
-    def scroolOnView(self, view, xOffset, yOffset, touchActions = None, delayPerform = False):
+    def scroolOnView(self, view, xOffset, yOffset, touchActions=None, delayPerform=False):
         action = None
         if touchActions is None:
             action = TouchActions(self.driver)
@@ -579,7 +591,7 @@ class driver (object):
             return action
         return None
 
-    def scroolTo(self, xOffset, yOffset, touchActions = None, delayPerform = False):
+    def scroolTo(self, xOffset, yOffset, touchActions=None, delayPerform=False):
         action = None
         if touchActions is None:
             action = TouchActions(self.driver)
@@ -599,3 +611,4 @@ class driver (object):
 
     def waitForSeconds(self, seconds):
         time.sleep(seconds)
+

@@ -1,0 +1,3268 @@
+[
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-08-28T10:35:00.519Z",
+    "lastModifiedDate": "2018-08-28T10:35:00.519Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507790630,
+    "title": "AdvisoryComm subs with attachment 441761847509735",
+    "body": "email 0db89dc8",
+    "rtfContent": "email 0db89dc8",
+    "organizationName": "Automated tests",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P2",
+    "startDate": "2018-08-28T10:31:57.000Z",
+    "endDate": "2018-08-29T09:31:55.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+      {
+        "mimeType": "img",
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/pub_media/userNone-1535452315-media1"
+      }
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5099790",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "uttvbAzkpl|CpvEh^{WzyI_r@`hA`h@dlAuyIviHzG`|B}p@llAqtBx`@wbAmhBkoBpgAsqBmVgfAukA[ahBmrEvzByx@eSgtQagQchAsG_sFzmIikAeGsk@wxBu}CurA_cB|r@{mF~yJ{Fb~AovGrg@ycB`~GucCd`Cwl@weDpZk~Fk_F_iIzcAeZ}Ket@fkCceBxmAvpAbh@woBvgCy}Av_C|IqTvsCxgDysCh~@zChAarA|bBqe@gCes@lkH_gFfzNiaE|~H}dFxaUluA|yPa_Cqe@zzM",
+              "encodedCoordinatesMd5": "db431f143c625ebc4e46d45a6be131da",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "dca72d1b94da7b34987dd8b3aa5989ab"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-08-28T10:35:00.514Z",
+    "lastModifiedDate": "2018-08-28T10:35:00.514Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507790629,
+    "title": "AdvisoryComm subs no attachment 441761847509734",
+    "body": "email 788af98e",
+    "rtfContent": "email 788af98e",
+    "organizationName": "Automated tests",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P2",
+    "startDate": "2018-08-28T10:31:11.000Z",
+    "endDate": "2018-08-29T09:31:10.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5099788",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "uttvbAzkpl|CpvEh^{WzyI_r@`hA`h@dlAuyIviHzG`|B}p@llAqtBx`@wbAmhBkoBpgAsqBmVgfAukA[ahBmrEvzByx@eSgtQagQchAsG_sFzmIikAeGsk@wxBu}CurA_cB|r@{mF~yJ{Fb~AovGrg@ycB`~GucCd`Cwl@weDpZk~Fk_F_iIzcAeZ}Ket@fkCceBxmAvpAbh@woBvgCy}Av_C|IqTvsCxgDysCh~@zChAarA|bBqe@gCes@lkH_gFfzNiaE|~H}dFxaUluA|yPa_Cqe@zzM",
+              "encodedCoordinatesMd5": "db431f143c625ebc4e46d45a6be131da",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "dca72d1b94da7b34987dd8b3aa5989ab"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-08-28T10:20:00.567Z",
+    "lastModifiedDate": "2018-08-28T10:20:00.567Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507790628,
+    "title": "Hazardous Seas Warning until 11:17AM Wednesday",
+    "body": "wire_476ce2aa - Doppler radar is tracking a FAKE duststorm gaining traction and heading West across North Carolina. THIS IS ONLY A TEST.\n\n* AFFECTED AREAS: BUNCOMBE COUNTY ...",
+    "rtfContent": "wire_476ce2aa - Doppler radar is tracking a FAKE duststorm gaining traction and heading West across North Carolina. THIS IS ONLY A TEST.\n\n* AFFECTED AREAS: BUNCOMBE COUNTY ...",
+    "organizationName": "STAGE Buncombe",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Observed",
+      "eventDescription": "Hazardous Seas Warning",
+      "instructions": "wire_476ce2aa - Disregard, this is only a test message.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-08-28T10:18:36.000Z",
+    "endDate": "2018-08-29T18:17:47.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5099768",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "ep~ubA~dt{|Cyl@uMsjDl|CqqG}xByhFkvEs{GcgBsfBj~A_cCcHugBf}@ezCo`By`DswGcuAwPgqCi`Ig`BsxAokGofB}iCfkBofAeSerDnlC}qFr`BiuCr}BwlA|zD{hBz_BgfG{rFueFk|hPxwsBytA~n@xb~Poy@{Y",
+              "encodedCoordinatesMd5": "a16b0def3281fb9b68b8f429a591d27b",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "4259d4ccd65e6ea9263af414aa66b786"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-08-28T10:15:01.014Z",
+    "lastModifiedDate": "2018-08-28T10:15:01.014Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507790627,
+    "title": "Dust Storm Warning until 10:11AM Wednesday",
+    "body": "wire_28d5fd57 - Doppler radar is tracking a FAKE duststorm gaining traction and heading West across North Carolina. THIS IS ONLY A TEST.\n\n* AFFECTED AREAS: BUNCOMBE COUNTY",
+    "rtfContent": "wire_28d5fd57 - Doppler radar is tracking a FAKE duststorm gaining traction and heading West across North Carolina. THIS IS ONLY A TEST.\n\n* AFFECTED AREAS: BUNCOMBE COUNTY",
+    "organizationName": "Automated tests",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Dust Storm Warning",
+      "instructions": "wire_28d5fd57 - Disregard, this is only a test message.",
+      "severity": "Moderate",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-08-28T10:12:25.000Z",
+    "endDate": "2018-08-29T19:11:37.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5099764",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "uttvbAzkpl|CpvEh^{WzyI_r@`hA`h@dlAuyIviHzG`|B}p@llAqtBx`@wbAmhBkoBpgAsqBmVgfAukA[ahBmrEvzByx@eSgtQagQchAsG_sFzmIikAeGsk@wxBu}CurA_cB|r@{mF~yJ{Fb~AovGrg@ycB`~GucCd`Cwl@weDpZk~Fk_F_iIzcAeZ}Ket@fkCceBxmAvpAbh@woBvgCy}Av_C|IqTvsCxgDysCh~@zChAarA|bBqe@gCes@lkH_gFfzNiaE|~H}dFxaUluA|yPa_Cqe@zzM",
+              "encodedCoordinatesMd5": "db431f143c625ebc4e46d45a6be131da",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "dca72d1b94da7b34987dd8b3aa5989ab"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-07-11T07:35:08.021Z",
+    "lastModifiedDate": "2018-07-11T07:35:08.021Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507790098,
+    "title": "None? Nixle Wire,NWS Test Group (3 Contacts, 2 intended)",
+    "body": "At 400 PM MDT, Doppler radar was tracking a strong duststorm gaining traction and heading West across North Carolina.\n\n* AFFECTED AREAS: BUNCOMBE COUNTY",
+    "rtfContent": "At 400 PM MDT, Doppler radar was tracking a strong duststorm gaining traction and heading West across North Carolina.\n\n* AFFECTED AREAS: BUNCOMBE COUNTY",
+    "organizationName": "Automated tests",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Dust Storm Warning",
+      "instructions": "Disregard, this is only a test message.",
+      "severity": "Moderate",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-07-10T02:08:17.000Z",
+    "endDate": "2019-07-10T08:02:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5091191",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "uttvbAzkpl|CpvEh^{WzyI_r@`hA`h@dlAuyIviHzG`|B}p@llAqtBx`@wbAmhBkoBpgAsqBmVgfAukA[ahBmrEvzByx@eSgtQagQchAsG_sFzmIikAeGsk@wxBu}CurA_cB|r@{mF~yJ{Fb~AovGrg@ycB`~GucCd`Cwl@weDpZk~Fk_F_iIzcAeZ}Ket@fkCceBxmAvpAbh@woBvgCy}Av_C|IqTvsCxgDysCh~@zChAarA|bBqe@gCes@lkH_gFfzNiaE|~H}dFxaUluA|yPa_Cqe@zzM",
+              "encodedCoordinatesMd5": "db431f143c625ebc4e46d45a6be131da",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "dca72d1b94da7b34987dd8b3aa5989ab"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-07-11T07:35:14.714Z",
+    "lastModifiedDate": "2018-07-11T07:35:14.714Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507790113,
+    "title": "None? Nixle Wire,NWS Test Group (3 Contacts, 2 intended)",
+    "body": "At 400 PM MDT, Doppler radar was tracking a strong duststorm gaining traction and heading West across North Carolina.\n\n* AFFECTED AREAS: BUNCOMBE COUNTY",
+    "rtfContent": "At 400 PM MDT, Doppler radar was tracking a strong duststorm gaining traction and heading West across North Carolina.\n\n* AFFECTED AREAS: BUNCOMBE COUNTY",
+    "organizationName": "Automated tests",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Dust Storm Warning",
+      "instructions": "Disregard, this is only a test message.",
+      "severity": "Moderate",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-07-10T02:03:50.000Z",
+    "endDate": "2019-07-11T02:30:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5091187",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "uttvbAzkpl|CpvEh^{WzyI_r@`hA`h@dlAuyIviHzG`|B}p@llAqtBx`@wbAmhBkoBpgAsqBmVgfAukA[ahBmrEvzByx@eSgtQagQchAsG_sFzmIikAeGsk@wxBu}CurA_cB|r@{mF~yJ{Fb~AovGrg@ycB`~GucCd`Cwl@weDpZk~Fk_F_iIzcAeZ}Ket@fkCceBxmAvpAbh@woBvgCy}Av_C|IqTvsCxgDysCh~@zChAarA|bBqe@gCes@lkH_gFfzNiaE|~H}dFxaUluA|yPa_Cqe@zzM",
+              "encodedCoordinatesMd5": "db431f143c625ebc4e46d45a6be131da",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "dca72d1b94da7b34987dd8b3aa5989ab"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-07-11T07:35:15.097Z",
+    "lastModifiedDate": "2018-07-11T07:35:15.097Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507790114,
+    "title": "Nixle Wire,NWS Test Group (3 Contacts, 2 intended)",
+    "body": "At 400 PM MDT, Doppler radar was tracking a strong duststorm gaining traction and heading West across North Carolina.\n\n* AFFECTED AREAS: BUNCOMBE COUNTY",
+    "rtfContent": "At 400 PM MDT, Doppler radar was tracking a strong duststorm gaining traction and heading West across North Carolina.\n\n* AFFECTED AREAS: BUNCOMBE COUNTY",
+    "organizationName": "Automated tests",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Dust Storm Warning",
+      "instructions": "Disregard, this is only a test message.",
+      "severity": "Moderate",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-07-10T01:59:26.000Z",
+    "endDate": "2019-07-10T02:30:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5091185",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "uttvbAzkpl|CpvEh^{WzyI_r@`hA`h@dlAuyIviHzG`|B}p@llAqtBx`@wbAmhBkoBpgAsqBmVgfAukA[ahBmrEvzByx@eSgtQagQchAsG_sFzmIikAeGsk@wxBu}CurA_cB|r@{mF~yJ{Fb~AovGrg@ycB`~GucCd`Cwl@weDpZk~Fk_F_iIzcAeZ}Ket@fkCceBxmAvpAbh@woBvgCy}Av_C|IqTvsCxgDysCh~@zChAarA|bBqe@gCes@lkH_gFfzNiaE|~H}dFxaUluA|yPa_Cqe@zzM",
+              "encodedCoordinatesMd5": "db431f143c625ebc4e46d45a6be131da",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "dca72d1b94da7b34987dd8b3aa5989ab"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-06-05T20:20:00.335Z",
+    "lastModifiedDate": "2018-06-05T20:20:00.335Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789754,
+    "title": "911 Telephone Outage until 01:00AM Thursday",
+    "body": "86NIX495 last test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "rtfContent": "86NIX495 last test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "Instructions for this alert.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-06-05T20:15:38.000Z",
+    "endDate": "2050-12-01T08:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5084949",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-06-05T20:15:00.445Z",
+    "lastModifiedDate": "2018-06-05T20:15:00.445Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789753,
+    "title": "911 Telephone Outage until 01:00AM Saturday",
+    "body": "86NIX495 last test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "rtfContent": "86NIX495 last test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "Instructions for this alert.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-06-05T20:11:24.000Z",
+    "endDate": "2040-12-01T08:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5084937",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-06-04T18:30:00.396Z",
+    "lastModifiedDate": "2018-06-04T18:30:00.396Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789723,
+    "title": "911 Telephone Outage until 01:00AM Thursday",
+    "body": "86NIX495 last test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "rtfContent": "86NIX495 last test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "Instructions for this alert.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-06-04T18:28:53.000Z",
+    "endDate": "2039-12-01T08:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5084549",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-05-07T20:05:00.398Z",
+    "lastModifiedDate": "2018-05-07T20:05:00.398Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789633,
+    "title": "911 Telephone Outage until 09:00PM Monday",
+    "body": "Alextestvoice Test Stage regression\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "Alextestvoice Test Stage regression\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Unlikely",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Unknown",
+      "urgency": "Past"
+    },
+    "startDate": "2018-05-07T20:04:42.000Z",
+    "endDate": "2027-08-17T05:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5079885",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-05-07T19:50:00.582Z",
+    "lastModifiedDate": "2018-05-07T19:50:00.582Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789632,
+    "title": "911 Telephone Outage until 09:00PM Monday",
+    "body": "Alextestvoice Test Stage regression\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "Alextestvoice Test Stage regression\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Unlikely",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Extreme",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-05-07T19:48:28.000Z",
+    "endDate": "2027-08-17T05:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5079869",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-05-07T19:40:00.467Z",
+    "lastModifiedDate": "2018-05-07T19:40:00.467Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789631,
+    "title": "911 Telephone Outage until 09:00PM Monday",
+    "body": "Alextestvoice Test Stage regression\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "Alextestvoice Test Stage regression\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Possible",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Moderate",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-05-07T19:38:15.000Z",
+    "endDate": "2027-08-17T05:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5079857",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-05-07T19:20:00.384Z",
+    "lastModifiedDate": "2018-05-07T19:20:00.384Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789630,
+    "title": "911 Telephone Outage until 09:00PM Monday",
+    "body": "Alextestvoice Test Stage regression\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "Alextestvoice Test Stage regression\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Possible",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Severe",
+      "urgency": "Future"
+    },
+    "startDate": "2018-05-07T19:19:47.000Z",
+    "endDate": "2027-08-17T05:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5079839",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-04-09T15:20:00.716Z",
+    "lastModifiedDate": "2018-04-09T15:20:00.716Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789554,
+    "title": "911 Telephone Outage until 09:00PM Tuesday",
+    "body": "Alextestvoice Test Stage no Blackout\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "Alextestvoice Test Stage no Blackout\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Possible",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Severe",
+      "urgency": "Future"
+    },
+    "startDate": "2018-04-09T15:17:08.000Z",
+    "endDate": "2022-08-17T05:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5075767",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-04-07T00:05:00.494Z",
+    "lastModifiedDate": "2018-04-07T00:05:00.494Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789533,
+    "title": "This is a test, please disregard.",
+    "body": "This is a test, please disregard.",
+    "rtfContent": "This is a test, please disregard.",
+    "organizationName": "Zecman House",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P2",
+    "startDate": "2018-04-07T00:01:27.000Z",
+    "endDate": "2099-01-01T06:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5075475",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "ib}yoAlbb|}Cxrx@qvAnaDfrhFq}KseCmqHfL_rDrs@_jAngDfE~j@ftDgE~WovAvj@vQod@vgDweOvQvcAgcJwm{BriDyzEvwBgdE}wfFvnoBcaD",
+              "encodedCoordinatesMd5": "fd1a94ff57578134097c05b34ae3b7c7",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "db8757cdb7c6e92e87b60005f217088e"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-03-26T17:30:00.503Z",
+    "lastModifiedDate": "2018-03-26T17:30:00.503Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789509,
+    "title": "911 Telephone Outage until 09:00PM Tuesday",
+    "body": "AlexNWS Test Agency 0326 Look out!\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "AlexNWS Test Agency 0326 Look out!\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Env",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Minor",
+      "urgency": "Immediate"
+    },
+    "startDate": "2018-03-26T17:25:40.000Z",
+    "endDate": "2022-08-17T05:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5074057",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-03-24T00:00:00.490Z",
+    "lastModifiedDate": "2018-03-24T00:00:00.490Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789503,
+    "title": "911 Telephone Outage until 09:00PM Tuesday",
+    "body": "AlexNWS Test Agency 0305 Look out!\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "AlexNWS Test Agency 0305 Look out!\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Env",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-03-23T23:59:00.000Z",
+    "endDate": "2022-08-17T05:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5073875",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-03-23T23:50:00.542Z",
+    "lastModifiedDate": "2018-03-23T23:50:00.542Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789502,
+    "title": "911 Telephone Outage until 09:00PM Tuesday",
+    "body": "AlexNWS Test Agency 0305 Look out!\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "AlexNWS Test Agency 0305 Look out!\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Infra",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-03-23T23:48:51.000Z",
+    "endDate": "2022-08-17T05:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5073863",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-03-23T23:25:00.503Z",
+    "lastModifiedDate": "2018-03-23T23:25:00.503Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789501,
+    "title": "911 Telephone Outage until 09:00PM Tuesday",
+    "body": "AlexNWS Test Agency 0305 Look out!\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "AlexNWS Test Agency 0305 Look out!\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Fire",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-03-23T23:20:24.000Z",
+    "endDate": "2022-08-17T05:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5073823",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-03-23T21:15:00.507Z",
+    "lastModifiedDate": "2018-03-23T21:15:00.507Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789500,
+    "title": "911 Telephone Outage until 09:00PM Tuesday",
+    "body": "AlexNWS Test Agency 0305\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "AlexNWS Test Agency 0305\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-03-23T21:11:01.000Z",
+    "endDate": "2022-08-17T05:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5073783",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-03-22T23:25:00.690Z",
+    "lastModifiedDate": "2018-03-22T23:25:00.690Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789495,
+    "title": "911 Telephone Outage until 12:00AM Tuesday",
+    "body": "AlexNWS Test Agency 0305\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "AlexNWS Test Agency 0305\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-03-22T23:24:03.000Z",
+    "endDate": "2024-12-03T08:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5073173",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-03-12T23:20:00.633Z",
+    "lastModifiedDate": "2018-03-12T23:20:00.633Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789472,
+    "title": "911 Telephone Outage until 12:00AM Sunday",
+    "body": "AlexNWS Test Agency 0305\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "AlexNWS Test Agency 0305\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-03-12T23:18:23.000Z",
+    "endDate": "2023-12-03T08:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5069159",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-03-05T19:55:00.488Z",
+    "lastModifiedDate": "2018-03-05T19:55:00.488Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789457,
+    "title": "911 Telephone Outage until 01:00AM Friday",
+    "body": "AlexNWS Test Agency 0305\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "AlexNWS Test Agency 0305\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-03-05T19:52:57.000Z",
+    "endDate": "2023-11-03T07:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5066963",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-03-01T00:10:00.841Z",
+    "lastModifiedDate": "2018-03-01T00:10:00.841Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789445,
+    "title": "Dust Storm Warning until 11:45PM Thursday",
+    "body": "...A DUST STORM WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL 1145 PM MDT SATURDAY  ...Any Kind of Recreation along the New Fork and Green Rivers is Not Advised... \n\n* AFFECTED AREAS: CONEJOS",
+    "rtfContent": "...A DUST STORM WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL 1145 PM MDT SATURDAY  ...Any Kind of Recreation along the New Fork and Green Rivers is Not Advised... \n\n* AFFECTED AREAS: CONEJOS",
+    "organizationName": "Colorado 2",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Dust Storm Warning",
+      "instructions": "",
+      "severity": "Moderate",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-03-01T00:05:58.000Z",
+    "endDate": "2020-09-18T05:45:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5065733",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "ao`qeAdgpshEdaCbcgm@ssh@`aXyksFzpbEw}iBf_Oir`Arc}Cq~tId@byAg_|Be^grq@|eAugcEtjCCowBu~kGj^ed~QbstAa`@jc@{viA{ZoluNt`JpcL|gBaMdCknCty@|G`uFp~IvkBsR`sBusDviCmi@pmDp`BzhB[jdEasF|mFff@`wEapBxhBknCzoBmzHvwAeOvbC`hGvsCklB|HwuDre@{YlfDtb@duCklBrfAflB|}@bFpkEckDha@c|AsGo_AgwBs_BoJanBxlKinBtiCyvAj}AidFhjBqKx}C_iCdqHjTdP|tAaoAjtFxb@t_BlsAnv@~gAsBtaB_`CnvFegC~nDyRt`G~fKx}FhnDp}AlvHrbCrt@xgDmsBrwDlfApqBhsB~s@reEjnJfpEtwAmDfvAksBblDyt@h|C{qChiDoMlmGbx@~}C`mGflAfo@t_Foo@hyFe`DzfF`|BbwBoDnyCeuBnxBc{E|fNouBpcD`jA~cCcyDvtDbVbpBfcC`wEhTv_CoqB|p@{uF~_HmqA`uFmlCjzGttA|fFzeHfpJ|{BzfCut@n~G_hHpkE_j@phKhqCjsGj}JpgBtcF~gOlwHrbNuo@h}Nv{BjiLcc@v~LorGx~AgwElqBom@peCfv@b_JlgI|aJfoBl`GtgHhqJlmE`}Bp}E`xCp}@fvA`|BtbKxjEd_Dl~FfkCz@nsA}mDlzG_~ExxGvzEhsDao@`oAhlEtaBdx@buF}g@to@szFjeFjzCtbCkqDztOsaHd]ksEgtBulH`sBwbGzrBiVpuEjbC~fCwgA~nAmuGrmD~w@xeBoyKwnB{qHtb@g|Ecq@elE~oBg|DncDw{@~rBrvCrbC{@`bDeuEvtDsBr{AawGrkDxy@tx@{v@",
+              "encodedCoordinatesMd5": "0a63d7b1535a7660609d062993fc3812",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "b783143d573af60be51fb8c774057613"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-03-01T00:10:00.839Z",
+    "lastModifiedDate": "2018-03-01T00:10:00.839Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789446,
+    "title": "Dust Storm Warning until 11:45PM Thursday",
+    "body": "...A DUST STORM WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL 1145 PM MDT SATURDAY  ...Any Kind of Recreation along the New Fork and Green Rivers is Not Advised... \n\n* AFFECTED AREAS: CONEJOS",
+    "rtfContent": "...A DUST STORM WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL 1145 PM MDT SATURDAY  ...Any Kind of Recreation along the New Fork and Green Rivers is Not Advised... \n\n* AFFECTED AREAS: CONEJOS",
+    "organizationName": "Colorado 1",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Dust Storm Warning",
+      "instructions": "",
+      "severity": "Moderate",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-03-01T00:05:56.000Z",
+    "endDate": "2020-09-18T05:45:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5065729",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "ao`qeAdgpshEdaCbcgm@ssh@`aXyksFzpbEw}iBf_Oir`Arc}Cq~tId@byAg_|Be^grq@|eAugcEtjCCowBu~kGj^ed~QbstAa`@jc@{viA{ZoluNt`JpcL|gBaMdCknCty@|G`uFp~IvkBsR`sBusDviCmi@pmDp`BzhB[jdEasF|mFff@`wEapBxhBknCzoBmzHvwAeOvbC`hGvsCklB|HwuDre@{YlfDtb@duCklBrfAflB|}@bFpkEckDha@c|AsGo_AgwBs_BoJanBxlKinBtiCyvAj}AidFhjBqKx}C_iCdqHjTdP|tAaoAjtFxb@t_BlsAnv@~gAsBtaB_`CnvFegC~nDyRt`G~fKx}FhnDp}AlvHrbCrt@xgDmsBrwDlfApqBhsB~s@reEjnJfpEtwAmDfvAksBblDyt@h|C{qChiDoMlmGbx@~}C`mGflAfo@t_Foo@hyFe`DzfF`|BbwBoDnyCeuBnxBc{E|fNouBpcD`jA~cCcyDvtDbVbpBfcC`wEhTv_CoqB|p@{uF~_HmqA`uFmlCjzGttA|fFzeHfpJ|{BzfCut@n~G_hHpkE_j@phKhqCjsGj}JpgBtcF~gOlwHrbNuo@h}Nv{BjiLcc@v~LorGx~AgwElqBom@peCfv@b_JlgI|aJfoBl`GtgHhqJlmE`}Bp}E`xCp}@fvA`|BtbKxjEd_Dl~FfkCz@nsA}mDlzG_~ExxGvzEhsDao@`oAhlEtaBdx@buF}g@to@szFjeFjzCtbCkqDztOsaHd]ksEgtBulH`sBwbGzrBiVpuEjbC~fCwgA~nAmuGrmD~w@xeBoyKwnB{qHtb@g|Ecq@elE~oBg|DncDw{@~rBrvCrbC{@`bDeuEvtDsBr{AawGrkDxy@tx@{v@",
+              "encodedCoordinatesMd5": "0a63d7b1535a7660609d062993fc3812",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "b783143d573af60be51fb8c774057613"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-02-20T22:05:01.308Z",
+    "lastModifiedDate": "2018-02-20T22:05:01.308Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789438,
+    "title": "911 Telephone Outage until 03:02AM Saturday",
+    "body": "This is the detailed description. qa Voice Test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "rtfContent": "This is the detailed description. qa Voice Test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "Instructions for this alert.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-02-17T00:54:30.000Z",
+    "endDate": "2019-04-13T07:00:12.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5063499",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-01-08T06:35:00.823Z",
+    "lastModifiedDate": "2018-01-08T06:35:00.823Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789250,
+    "title": "Test Telephone Outage 81stg until 01:00AM Tuesday",
+    "body": "This is the detailed description. Front page outage test NIX245-81stg\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "rtfContent": "This is the detailed description. Front page outage test NIX245-81stg\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "Test Telephone Outage 81stg",
+      "instructions": "Instructions for this alert.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-01-08T06:34:27.000Z",
+    "endDate": "2037-12-01T08:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5059248",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2018-01-05T19:35:00.799Z",
+    "lastModifiedDate": "2018-01-05T19:35:00.799Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789234,
+    "title": "Test Telephone Outage 81stg until 01:00AM Tuesday",
+    "body": "This is the detailed description. Front page outage test NIX245-81stg\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "rtfContent": "This is the detailed description. Front page outage test NIX245-81stg\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "Test Telephone Outage 81stg",
+      "instructions": "Instructions for this alert.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2018-01-05T19:30:16.000Z",
+    "endDate": "2037-12-01T08:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5059136",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-10-27T22:45:01.395Z",
+    "lastModifiedDate": "2017-10-27T22:45:01.395Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789099,
+    "title": "911 Telephone Outage until 01:00AM Thursday",
+    "body": "AlexNWS Test Agency 1027\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "AlexNWS Test Agency 1027\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2017-10-27T22:41:36.000Z",
+    "endDate": "2022-11-03T07:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5056873",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-10-27T22:40:01.822Z",
+    "lastModifiedDate": "2017-10-27T22:40:01.822Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789098,
+    "title": "911 Telephone Outage until 01:00AM Sunday",
+    "body": "AlexNWS Test Agency 1027\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "AlexNWS Test Agency 1027\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2017-10-27T22:35:29.000Z",
+    "endDate": "2021-10-03T07:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5056861",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-09-29T23:45:00.438Z",
+    "lastModifiedDate": "2017-09-29T23:50:00.420Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789090,
+    "title": "911 Telephone Outage until 01:00AM Monday",
+    "body": "AlexNWS Test Agency 0929\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "AlexNWS Test Agency 0929\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2017-09-29T23:45:00.000Z",
+    "endDate": "2023-10-02T07:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5056389",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-09-27T19:25:00.725Z",
+    "lastModifiedDate": "2017-09-27T19:25:00.725Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789081,
+    "title": "Flood Warning until 11:45PM Saturday",
+    "body": "...A FLOOD WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL 1145 PM MDT SATURDAY FOR SOUTHWESTERN SUBLETTE AND EAST CENTRAL LINCOLN COUNTIES... ...Any Kind of Recreation along the New Fork and Green Rivers is Not Advised... ...The Flood Warning continues for the Lower Green River near LaBarge... At 826 AM MDT, the stage at Green River near LaBarge was near 9.3 feet which is less than half a foot above minor flood stage. The river will continue to slowly recede during the remainder of the weekend. There should be minimal water over Whalen Road and County Road 318 near LaBarge.  Widespread minor low land flooding will continue through early Saturday. River Forecasts The Green River near LaBarge:  Forecasted to recede to below the minor flood stage of 9.0 feet by Saturday afternoon. Flood impacts for each river location can be found on the AHPS hydrology page: https//water.weather.gov/ahps2/index.php?wfo=RIW By clicking the individual river site on the map. PRECAUTIONARY/PREPAREDNESS ACTIONS... It is important to know where you are relative to streams, rivers, and creeks which can become killers during high flows. Campers and boaters need to stay away from streams and rivers along the Green River Basin all this weekend.\n\n* AFFECTED AREAS: LINCOLN ...  SUBLETTE",
+    "rtfContent": "...A FLOOD WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL 1145 PM MDT SATURDAY FOR SOUTHWESTERN SUBLETTE AND EAST CENTRAL LINCOLN COUNTIES... ...Any Kind of Recreation along the New Fork and Green Rivers is Not Advised... ...The Flood Warning continues for the Lower Green River near LaBarge... At 826 AM MDT, the stage at Green River near LaBarge was near 9.3 feet which is less than half a foot above minor flood stage. The river will continue to slowly recede during the remainder of the weekend. There should be minimal water over Whalen Road and County Road 318 near LaBarge.  Widespread minor low land flooding will continue through early Saturday. River Forecasts The Green River near LaBarge:  Forecasted to recede to below the minor flood stage of 9.0 feet by Saturday afternoon. Flood impacts for each river location can be found on the AHPS hydrology page: https//water.weather.gov/ahps2/index.php?wfo=RIW By clicking the individual river site on the map. PRECAUTIONARY/PREPAREDNESS ACTIONS... It is important to know where you are relative to streams, rivers, and creeks which can become killers during high flows. Campers and boaters need to stay away from streams and rivers along the Green River Basin all this weekend.\n\n* AFFECTED AREAS: LINCOLN ...  SUBLETTE",
+    "organizationName": "Teton Fake",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Flood Warning",
+      "instructions": "",
+      "severity": "Moderate",
+      "urgency": "Expected"
+    },
+    "startDate": "2017-09-27T19:20:22.000Z",
+    "endDate": "2018-09-30T05:45:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5056283",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "mo{hrA~uuxrEsA^ob@Ls`@LwODO?afBf@C?{yErA{Ul@eL_@qcBf@}B@cSFw^JO?_IBchOhEirTbBy`\\lGkwGZuAS{sKpC????g|KpCgfJHqh@@g~@@snABe@?_h@@}X?W?wkA@_B?eA?kE?gF?qH?isDDqwB@a@?yaBBS?}iB@{u@BK?ihHRkdBWS?gyCc@iGAsjBY_qASspGh@mtGj@K?wzBRK?sG?sHAq@?gz@EcA?s@?oD?s@?a@?S?EA_F?I?wnAGcSAqmSvAkpU`BaAsF_B?I?mv@Ks]GcKvCu@?mW?_yBCw@?eXV`wBi~aEzsbGxtAsHt`~D",
+              "encodedCoordinatesMd5": "ec32729962e4b2cb57623adfba084099",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "bd8a92737032e02b70983b0ed4bdf9c7"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-09-13T20:35:00.562Z",
+    "lastModifiedDate": "2017-09-13T20:35:00.562Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789056,
+    "title": "Flood Warning until 11:45PM Tuesday",
+    "body": "...A FLOOD WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL 1145 PM MDT SATURDAY FOR SOUTHWESTERN SUBLETTE AND EAST CENTRAL LINCOLN COUNTIES... ...Any Kind of Recreation along the New Fork and Green Rivers is Not Advised... ...The Flood Warning continues for the Lower Green River near LaBarge... At 826 AM MDT, the stage at Green River near LaBarge was near 9.3 feet which is less than half a foot above minor flood stage. The river will continue to slowly recede during the remainder of the weekend. There should be minimal water over Whalen Road and County Road 318 near LaBarge.  Widespread minor low land flooding will continue through early Saturday. River Forecasts The Green River near LaBarge:  Forecasted to recede to below the minor flood stage of 9.0 feet by Saturday afternoon. Flood impacts for each river location can be found on the AHPS hydrology page: https//water.weather.gov/ahps2/index.php?wfo=RIW By clicking the individual river site on the map. PRECAUTIONARY/PREPAREDNESS ACTIONS... It is important to know where you are relative to streams, rivers, and creeks which can become killers during high flows. Campers and boaters need to stay away from streams and rivers along the Green River Basin all this weekend.\n\n* AFFECTED AREAS: LINCOLN ...  SUBLETTE",
+    "rtfContent": "...A FLOOD WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL 1145 PM MDT SATURDAY FOR SOUTHWESTERN SUBLETTE AND EAST CENTRAL LINCOLN COUNTIES... ...Any Kind of Recreation along the New Fork and Green Rivers is Not Advised... ...The Flood Warning continues for the Lower Green River near LaBarge... At 826 AM MDT, the stage at Green River near LaBarge was near 9.3 feet which is less than half a foot above minor flood stage. The river will continue to slowly recede during the remainder of the weekend. There should be minimal water over Whalen Road and County Road 318 near LaBarge.  Widespread minor low land flooding will continue through early Saturday. River Forecasts The Green River near LaBarge:  Forecasted to recede to below the minor flood stage of 9.0 feet by Saturday afternoon. Flood impacts for each river location can be found on the AHPS hydrology page: https//water.weather.gov/ahps2/index.php?wfo=RIW By clicking the individual river site on the map. PRECAUTIONARY/PREPAREDNESS ACTIONS... It is important to know where you are relative to streams, rivers, and creeks which can become killers during high flows. Campers and boaters need to stay away from streams and rivers along the Green River Basin all this weekend.\n\n* AFFECTED AREAS: LINCOLN ...  SUBLETTE",
+    "organizationName": "Teton Fake",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Flood Warning",
+      "instructions": "",
+      "severity": "Moderate",
+      "urgency": "Expected"
+    },
+    "startDate": "2017-09-13T20:31:53.000Z",
+    "endDate": "2018-09-19T05:45:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5055793",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "mo{hrA~uuxrEsA^ob@Ls`@LwODO?afBf@C?{yErA{Ul@eL_@qcBf@}B@cSFw^JO?_IBchOhEirTbBy`\\lGkwGZuAS{sKpC????g|KpCgfJHqh@@g~@@snABe@?_h@@}X?W?wkA@_B?eA?kE?gF?qH?isDDqwB@a@?yaBBS?}iB@{u@BK?ihHRkdBWS?gyCc@iGAsjBY_qASspGh@mtGj@K?wzBRK?sG?sHAq@?gz@EcA?s@?oD?s@?a@?S?EA_F?I?wnAGcSAqmSvAkpU`BaAsF_B?I?mv@Ks]GcKvCu@?mW?_yBCw@?eXV`wBi~aEzsbGxtAsHt`~D",
+              "encodedCoordinatesMd5": "ec32729962e4b2cb57623adfba084099",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "bd8a92737032e02b70983b0ed4bdf9c7"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-09-01T19:45:00.696Z",
+    "lastModifiedDate": "2017-09-01T19:45:00.696Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789041,
+    "title": "911 Telephone Outage until 12:00AM Wednesday",
+    "body": "AlexNWS Test Agency\n\n* AFFECTED AREAS: EVERYWHERE",
+    "rtfContent": "AlexNWS Test Agency\n\n* AFFECTED AREAS: EVERYWHERE",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "DON'T PANIC!",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2017-09-01T19:44:50.000Z",
+    "endDate": "2023-02-01T08:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5055647",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-08-23T21:00:00.646Z",
+    "lastModifiedDate": "2017-08-23T21:00:00.646Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789039,
+    "title": "Flash Flood Warning until 09:30PM Monday",
+    "body": "Region: 172638 Polygon: 38.1392822,-121.3742065 38.1431975,-121.3357544 38.1548071,-121.3045120 38.1533223,-121.2761879 38.1194325,-121.2511253 38.0956598,-121.3283730 38.0805276,-121.3578987 38.0806627,-121.3889694 38.0986318,-121.4040756 38.1380671,-121.3742065 38.1392822,-121.3743782 38.1392822,-121.3742065",
+    "rtfContent": "Region: 172638 Polygon: 38.1392822,-121.3742065 38.1431975,-121.3357544 38.1548071,-121.3045120 38.1533223,-121.2761879 38.1194325,-121.2511253 38.0956598,-121.3283730 38.0805276,-121.3578987 38.0806627,-121.3889694 38.0986318,-121.4040756 38.1380671,-121.3742065 38.1392822,-121.3743782 38.1392822,-121.3742065",
+    "organizationName": "Lodi CA Fake",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Flood Warning",
+      "instructions": "",
+      "severity": "Severe",
+      "urgency": "Immediate"
+    },
+    "startDate": "2017-08-23T20:58:40.000Z",
+    "endDate": "2099-01-01T08:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5055449",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "chgtgAdo~ofFor@cZiVqF_YwAuTvAuMjDa@eNzdAiZhoBw~@|QneAb@j]_N|WoVrMoX{C",
+              "encodedCoordinatesMd5": "ab5498bef7b04ca5052abd2c2a949f77",
+              "multi": false
+            },
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "gqktgAxt}ofFtGkBpIcAbKWnMNnObAxEv@|LpDzS~H~`@jR`JtBrDJbJa@zCs@vCeAbGsD|DwDlFcIzCcHdBoGbAoHTaHCmH]kDgTqkAoDaRa[wuAj\\_i@ldNouUznAsuBhoCewExjAuoBflAyrBuDzn_@F`WpEpoRkn^zmYyJ}G}X_k]",
+              "encodedCoordinatesMd5": "70130ccc9788a9487c25f86b3b412b8c",
+              "multi": false
+            },
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "sostgAzqyjfFsc@hzBhyAg@pr@pfDkt@Aqb@voEbzBDQ`_F_f[FpAkxFosFC`BwdIm{AaAyFldIqaAKhEceIso@CmCx}Pihj@xDipBmoCgcC?k@mdI{xAwy@{qAaqErt@`JvKoqBbaAgc@mD}_Bgw@nd@fHu{@av@nXvpCiqCmyAkc@c[ehAr{Bws@i}@_cBdGe`Cq[o_@upBft@n]}gCih@mUwt@lo@|I{}@ofA{u@~o@_fD`|AcfA}cAkrC|`C~f@|@{wCliCgzA_F_mBtxBoTs@u|BcYv_BoqAfW`g@cnDygAjwE}m@jx@kl@eWjcBedIjzw@o`i@t~^zrfB",
+              "encodedCoordinatesMd5": "1df705e38980937cd0075b712bb0104a",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "07e1144d3cbf034ce0fe1fe4370e09ca"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-08-23T20:20:00.575Z",
+    "lastModifiedDate": "2017-08-23T20:20:00.575Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789037,
+    "title": "Flash Flood Warning until 09:30PM Monday",
+    "body": "region: 174110 polygon: 40.893029,-74.079403 40.893347,-74.07930299999998 40.893455,-74.07928099999998 40.893512,-74.07925199999998 40.893676,-74.07921799999998 40.893804,-74.07918499999998 40.894028,-74.079154 40.894168,-74.079142 40.894356,-74.079116 40.89445,-74.07908899999998 40.894556,-74.079048 40.894662,-74.07901599999998 40.894862,-74.07896599999999 40.895033,-74.078923 40.895068,-74.078923 40.895029,-74.078676 40.895023,-74.07853 40.895015,-74.078445 40.894986,-74.07822899999999 40.894943,-74.078018 40.894886,-74.07781300000001 40.894815,-74.077612 40.89475,-74.07746199999998 40.894657,-74.077281 40.894365,-74.07679799999998 40.893934,-74.07608500000001 40.893745,-74.07577399999998 40.893481,-74.075338 40.892627,-74.07392799999998 40.891865,-74.07267 40.891771,-74.072512 40.890852,-74.070971 40.890394,-74.07020300000001 40.88975,-74.069096 40.889405,-74.06850099999998 40.889391,-74.068477 40.88858,-74.067104 40.88802,-74.06615499999998 40.888003,-74.06612599999998 40.887537,-74.065354 40.887523,-74.06533199999998 40.887505,-74.065302 40.886948,-74.064379 40.88681,-74.064149 40.886142,-74.064525 40.885455,-74.064941 40.884655,-74.065088 40.883845,-74.06523300000001 40.882974,-74.065399 40.882792,-74.06547399999998 40.881932,-74.065843 40.881899,-74.06588399999998 40.881242,-74.066148 40.877551,-74.06810299999999 40.87662,-74.06813200000001 40.875999,-74.06838500000001 40.875608,-74.06849099999998 40.874899,-74.068878 40.874391,-74.068971 40.873806,-74.06913299999999 40.8735,-74.06928499999999 40.872622,-74.06963500000001 40.871482,-74.07013600000001 40.871286,-74.07025899999999 40.870948,-74.070525 40.870856,-74.07060300000001 40.869674,-74.071673 40.870059,-74.072321 40.870802,-74.07357500000001 40.870138,-74.074257 40.869434,-74.074979 40.86889,-74.07553799999998 40.86886,-74.075568 40.868681,-74.07575199999999 40.870326,-74.07844199999998 40.871389,-74.08015899999998 40.871812,-74.08073 40.871237,-74.081097 40.870629,-74.08182399999998 40.870397,-74.081861 40.870019,-74.081202 40.869229,-74.07954599999999 40.869129,-74.07964599999998 40.868744,-74.080043 40.868715,-74.080072 40.867983,-74.080826 40.867943,-74.08086699999998 40.867425,-74.08139799999999 40.867171,-74.081658 40.866867,-74.081969 40.866417,-74.08243 40.865681,-74.08318300000001 40.865297,-74.08357700000001 40.865208,-74.08366499999998 40.865141,-74.083854 40.86483,-74.08401600000001 40.864591,-74.08424999999998 40.864497,-74.08415100000001 40.861442,-74.08761 40.861975,-74.08853000000001 40.862351,-74.089179 40.864009,-74.092043 40.865096,-74.09392099999998 40.866786,-74.096486 40.867222,-74.09719699999999 40.867248,-74.09724 40.867384,-74.097069 40.867465,-74.096964 40.867486,-74.096914 40.867633,-74.096744 40.867853,-74.09649799999998 40.867898,-74.09644799999998 40.867986,-74.096467 40.86803,-74.096485 40.868102,-74.09651499999998 40.868213,-74.09654399999998 40.86832,-74.096558 40.868492,-74.09654500000001 40.868575,-74.09654 40.868782,-74.09635400000001 40.868931,-74.096075 40.869015,-74.09578299999998 40.869001,-74.09558800000001 40.868897,-74.09536300000001 40.868888,-74.09534499999998 40.868787,-74.09520299999998 40.868615,-74.09509199999999 40.868456,-74.095054 40.869804,-74.094007 40.870763,-74.095443 40.871372,-74.09592399999998 40.871888,-74.096332 40.872266,-74.097103 40.872644,-74.09787300000001 40.87302,-74.09864 40.874357,-74.097492 40.874392,-74.09746099999998 40.875717,-74.096323 40.876202,-74.095984 40.877028,-74.09543600000001 40.878295,-74.09459699999999 40.878611,-74.094476 40.880372,-74.09380199999998 40.880387,-74.09379599999998 40.88143,-74.09339699999998 40.883403,-74.09274999999998 40.883794,-74.092634 40.884275,-74.09249199999999 40.884538,-74.09242899999998 40.885211,-74.09227 40.885635,-74.092169 40.88662,-74.09191300000001 40.886714,-74.091521 40.886875,-74.09084799999999 40.88733,-74.08895200000001 40.887859,-74.08674499999999 40.88807,-74.085865 40.888276,-74.085007 40.888483,-74.08414 40.888682,-74.08330999999998 40.888933,-74.082239 40.888974,-74.08185199999998 40.888965,-74.081658 40.888948,-74.081563 40.889049,-74.08151999999998 40.889108,-74.081495 40.889266,-74.08145399999999 40.889697,-74.081298 40.889787,-74.081265 40.889927,-74.08116800000001 40.890044,-74.081039 40.890211,-74.08084599999999 40.890555,-74.08055400000001 40.890653,-74.080488 40.890688,-74.080465 40.890777,-74.080394 40.890882,-74.080303 40.891027,-74.08018599999998 40.891168,-74.08009099999998 40.891222,-74.08007600000001 40.891455,-74.07998899999998 40.89153,-74.079966 40.891712,-74.07992299999999 40.891882,-74.07986699999999 40.892027,-74.079801 40.892385,-74.07965799999998 40.892486,-74.079623 40.892668,-74.079542 40.892929,-74.079435 40.893029,-74.079403",
+    "rtfContent": "region: 174110 polygon: 40.893029,-74.079403 40.893347,-74.07930299999998 40.893455,-74.07928099999998 40.893512,-74.07925199999998 40.893676,-74.07921799999998 40.893804,-74.07918499999998 40.894028,-74.079154 40.894168,-74.079142 40.894356,-74.079116 40.89445,-74.07908899999998 40.894556,-74.079048 40.894662,-74.07901599999998 40.894862,-74.07896599999999 40.895033,-74.078923 40.895068,-74.078923 40.895029,-74.078676 40.895023,-74.07853 40.895015,-74.078445 40.894986,-74.07822899999999 40.894943,-74.078018 40.894886,-74.07781300000001 40.894815,-74.077612 40.89475,-74.07746199999998 40.894657,-74.077281 40.894365,-74.07679799999998 40.893934,-74.07608500000001 40.893745,-74.07577399999998 40.893481,-74.075338 40.892627,-74.07392799999998 40.891865,-74.07267 40.891771,-74.072512 40.890852,-74.070971 40.890394,-74.07020300000001 40.88975,-74.069096 40.889405,-74.06850099999998 40.889391,-74.068477 40.88858,-74.067104 40.88802,-74.06615499999998 40.888003,-74.06612599999998 40.887537,-74.065354 40.887523,-74.06533199999998 40.887505,-74.065302 40.886948,-74.064379 40.88681,-74.064149 40.886142,-74.064525 40.885455,-74.064941 40.884655,-74.065088 40.883845,-74.06523300000001 40.882974,-74.065399 40.882792,-74.06547399999998 40.881932,-74.065843 40.881899,-74.06588399999998 40.881242,-74.066148 40.877551,-74.06810299999999 40.87662,-74.06813200000001 40.875999,-74.06838500000001 40.875608,-74.06849099999998 40.874899,-74.068878 40.874391,-74.068971 40.873806,-74.06913299999999 40.8735,-74.06928499999999 40.872622,-74.06963500000001 40.871482,-74.07013600000001 40.871286,-74.07025899999999 40.870948,-74.070525 40.870856,-74.07060300000001 40.869674,-74.071673 40.870059,-74.072321 40.870802,-74.07357500000001 40.870138,-74.074257 40.869434,-74.074979 40.86889,-74.07553799999998 40.86886,-74.075568 40.868681,-74.07575199999999 40.870326,-74.07844199999998 40.871389,-74.08015899999998 40.871812,-74.08073 40.871237,-74.081097 40.870629,-74.08182399999998 40.870397,-74.081861 40.870019,-74.081202 40.869229,-74.07954599999999 40.869129,-74.07964599999998 40.868744,-74.080043 40.868715,-74.080072 40.867983,-74.080826 40.867943,-74.08086699999998 40.867425,-74.08139799999999 40.867171,-74.081658 40.866867,-74.081969 40.866417,-74.08243 40.865681,-74.08318300000001 40.865297,-74.08357700000001 40.865208,-74.08366499999998 40.865141,-74.083854 40.86483,-74.08401600000001 40.864591,-74.08424999999998 40.864497,-74.08415100000001 40.861442,-74.08761 40.861975,-74.08853000000001 40.862351,-74.089179 40.864009,-74.092043 40.865096,-74.09392099999998 40.866786,-74.096486 40.867222,-74.09719699999999 40.867248,-74.09724 40.867384,-74.097069 40.867465,-74.096964 40.867486,-74.096914 40.867633,-74.096744 40.867853,-74.09649799999998 40.867898,-74.09644799999998 40.867986,-74.096467 40.86803,-74.096485 40.868102,-74.09651499999998 40.868213,-74.09654399999998 40.86832,-74.096558 40.868492,-74.09654500000001 40.868575,-74.09654 40.868782,-74.09635400000001 40.868931,-74.096075 40.869015,-74.09578299999998 40.869001,-74.09558800000001 40.868897,-74.09536300000001 40.868888,-74.09534499999998 40.868787,-74.09520299999998 40.868615,-74.09509199999999 40.868456,-74.095054 40.869804,-74.094007 40.870763,-74.095443 40.871372,-74.09592399999998 40.871888,-74.096332 40.872266,-74.097103 40.872644,-74.09787300000001 40.87302,-74.09864 40.874357,-74.097492 40.874392,-74.09746099999998 40.875717,-74.096323 40.876202,-74.095984 40.877028,-74.09543600000001 40.878295,-74.09459699999999 40.878611,-74.094476 40.880372,-74.09380199999998 40.880387,-74.09379599999998 40.88143,-74.09339699999998 40.883403,-74.09274999999998 40.883794,-74.092634 40.884275,-74.09249199999999 40.884538,-74.09242899999998 40.885211,-74.09227 40.885635,-74.092169 40.88662,-74.09191300000001 40.886714,-74.091521 40.886875,-74.09084799999999 40.88733,-74.08895200000001 40.887859,-74.08674499999999 40.88807,-74.085865 40.888276,-74.085007 40.888483,-74.08414 40.888682,-74.08330999999998 40.888933,-74.082239 40.888974,-74.08185199999998 40.888965,-74.081658 40.888948,-74.081563 40.889049,-74.08151999999998 40.889108,-74.081495 40.889266,-74.08145399999999 40.889697,-74.081298 40.889787,-74.081265 40.889927,-74.08116800000001 40.890044,-74.081039 40.890211,-74.08084599999999 40.890555,-74.08055400000001 40.890653,-74.080488 40.890688,-74.080465 40.890777,-74.080394 40.890882,-74.080303 40.891027,-74.08018599999998 40.891168,-74.08009099999998 40.891222,-74.08007600000001 40.891455,-74.07998899999998 40.89153,-74.079966 40.891712,-74.07992299999999 40.891882,-74.07986699999999 40.892027,-74.079801 40.892385,-74.07965799999998 40.892486,-74.079623 40.892668,-74.079542 40.892929,-74.079435 40.893029,-74.079403",
+    "organizationName": "Lodi NJ Fake",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Flood Warning",
+      "instructions": "",
+      "severity": "Severe",
+      "urgency": "Immediate"
+    },
+    "startDate": "2017-08-23T20:18:29.000Z",
+    "endDate": "2099-01-01T08:00:09.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5055445",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "ie|~lAtimhlC{RmEwEe@qB}@gI{@_GoA_Ms@wGWwJs@{Ds@sEsAsEw@oKkBuIuAeA?lAmNJcHNiDx@oLtAeLpByKlCqK`CoHxDeJfQa]|Yuk@xJuRnO_Zjt@_wArn@wmAzD{Hlx@i_Br[_o@fg@edApTgd@Zm@tq@ytA~a@sz@`@g@b\\oo@Zo@b@w@xa@ux@rGkMvh@nV|i@~X~p@dHrq@`Hlu@jIjJtCvt@`V`AhA`h@vOteFdyBdy@x@xe@xNlWrEhk@dWv^xDpc@bIbRnHzu@zTffAh^fKtFbTrOvDzCzhAzaAaWng@mm@jmAnh@ri@~j@bl@~`@|a@z@z@dJnJyeB~fDmaAnjBmYrb@|b@|U~d@dl@nMpArVeh@jp@ofBfEnE`WpWx@x@vl@bn@nAvAj_@~_@zNfO~QlRb[x[~l@`n@~VrWpDdDdCbKlRbI|MrMzDeE|}DdwEi`@nx@oVpg@sfB~qD}bAjtBshBh_DgZlk@s@tAoGuIaDqEi@cBeHsIwLgNyAcBoD`@wAb@oCp@}EbAuEZwIYeDI}KsJiHmPgDmQZ_KnEaMPc@hEaHvIwE|HkAgsAm`A}z@vxAae@x\\g_@vXsVdo@sVbo@oV|n@qrAwfAeA_AyqAafAi]eTsr@ga@enAms@wRqFamBgi@]?e`A_XizBsg@mWgFa]{GmO{Bai@_IoYiEq|@_O{DoWaIai@m[ouBa`@}hCeL_v@{Kst@}Keu@mK{r@uN}aAqAiWP_K`@}DiEuAuBq@{HqA}YwHsDaAwGaEiFaGmIaKoTgQcEcCeAm@qDmCqEuDaHaFyGgEkB[qMkDuCo@kJuAsIoBaHcCkUyGiEiAkJaDiOuEgE_A",
+              "encodedCoordinatesMd5": "ed5bd670c538a86c440826cba2612fd4",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "88097be509c5670c5d1f592e693b3548"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-08-23T20:00:00.544Z",
+    "lastModifiedDate": "2017-08-23T20:00:00.544Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789036,
+    "title": "Flash Flood Warning until 09:30PM Monday",
+    "body": "region: 174110 polygon: 40.6,-74.46 40.66,-74.4 40.66,-74.45 40.7,-74.43 40.74,-74.37 40.82,-74.33 40.91,-74.33 40.9,-74.27 40.97,-74.28 40.99,-74.21 41.17,-74.11 41.13,-73.72 40.99,-73.65 40.83,-73.79 40.83,-73.8 40.74,-73.71 40.67,-74.03 40.7,-74.03 40.65,-74.1 40.6,-74.46",
+    "rtfContent": "region: 174110 polygon: 40.6,-74.46 40.66,-74.4 40.66,-74.45 40.7,-74.43 40.74,-74.37 40.82,-74.33 40.91,-74.33 40.9,-74.27 40.97,-74.28 40.99,-74.21 41.17,-74.11 41.13,-73.72 40.99,-73.65 40.83,-73.79 40.83,-73.8 40.74,-73.71 40.67,-74.03 40.7,-74.03 40.65,-74.1 40.6,-74.46",
+    "organizationName": "Lodi NJ Fake",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Flood Warning",
+      "instructions": "",
+      "severity": "Severe",
+      "urgency": "Immediate"
+    },
+    "startDate": "2017-08-23T19:55:43.000Z",
+    "endDate": "2099-01-01T08:00:07.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5055443",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "ie|~lAtimhlC{RmEwEe@qB}@gI{@_GoA_Ms@wGWwJs@{Ds@sEsAsEw@oKkBuIuAeA?lAmNJcHNiDx@oLtAeLpByKlCqK`CoHxDeJfQa]|Yuk@xJuRnO_Zjt@_wArn@wmAzD{Hlx@i_Br[_o@fg@edApTgd@Zm@tq@ytA~a@sz@`@g@b\\oo@Zo@b@w@xa@ux@rGkMvh@nV|i@~X~p@dHrq@`Hlu@jIjJtCvt@`V`AhA`h@vOteFdyBdy@x@xe@xNlWrEhk@dWv^xDpc@bIbRnHzu@zTffAh^fKtFbTrOvDzCzhAzaAaWng@mm@jmAnh@ri@~j@bl@~`@|a@z@z@dJnJyeB~fDmaAnjBmYrb@|b@|U~d@dl@nMpArVeh@jp@ofBfEnE`WpWx@x@vl@bn@nAvAj_@~_@zNfO~QlRb[x[~l@`n@~VrWpDdDdCbKlRbI|MrMzDeE|}DdwEi`@nx@oVpg@sfB~qD}bAjtBshBh_DgZlk@s@tAoGuIaDqEi@cBeHsIwLgNyAcBoD`@wAb@oCp@}EbAuEZwIYeDI}KsJiHmPgDmQZ_KnEaMPc@hEaHvIwE|HkAgsAm`A}z@vxAae@x\\g_@vXsVdo@sVbo@oV|n@qrAwfAeA_AyqAafAi]eTsr@ga@enAms@wRqFamBgi@]?e`A_XizBsg@mWgFa]{GmO{Bai@_IoYiEq|@_O{DoWaIai@m[ouBa`@}hCeL_v@{Kst@}Keu@mK{r@uN}aAqAiWP_K`@}DiEuAuBq@{HqA}YwHsDaAwGaEiFaGmIaKoTgQcEcCeAm@qDmCqEuDaHaFyGgEkB[qMkDuCo@kJuAsIoBaHcCkUyGiEiAkJaDiOuEgE_A",
+              "encodedCoordinatesMd5": "ed5bd670c538a86c440826cba2612fd4",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "88097be509c5670c5d1f592e693b3548"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-08-23T19:55:00.647Z",
+    "lastModifiedDate": "2017-08-23T19:55:00.647Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789035,
+    "title": "Flash Flood Warning until 09:30PM Monday",
+    "body": "region: 83896 polygon: 40.894999,-74.07868499999999 40.891899,-74.072485 40.886999,-74.064285 40.882999,-74.065185 40.875999,-74.06838500000001 40.872699,-74.069585 40.869899,-74.07148499999998 40.868699,-74.07578499999998 40.869199,-74.07948500000001 40.861699,-74.087486 40.865099,-74.09328600000001 40.867099,-74.09678599999998 40.868899,-74.095786 40.868499,-74.094786 40.869899,-74.09368600000001 40.871899,-74.09598599999998 40.873099,-74.098386 40.877199,-74.09508599999998 40.886699,-74.091786 40.889099,-74.08128499999999 40.894999,-74.07868499999999",
+    "rtfContent": "region: 83896 polygon: 40.894999,-74.07868499999999 40.891899,-74.072485 40.886999,-74.064285 40.882999,-74.065185 40.875999,-74.06838500000001 40.872699,-74.069585 40.869899,-74.07148499999998 40.868699,-74.07578499999998 40.869199,-74.07948500000001 40.861699,-74.087486 40.865099,-74.09328600000001 40.867099,-74.09678599999998 40.868899,-74.095786 40.868499,-74.094786 40.869899,-74.09368600000001 40.871899,-74.09598599999998 40.873099,-74.098386 40.877199,-74.09508599999998 40.886699,-74.091786 40.889099,-74.08128499999999 40.894999,-74.07868499999999",
+    "organizationName": "Lodi NJ Fake",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Flood Warning",
+      "instructions": "",
+      "severity": "Severe",
+      "urgency": "Immediate"
+    },
+    "startDate": "2017-08-23T19:54:25.000Z",
+    "endDate": "2099-01-01T08:00:06.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5055441",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "ie|~lAtimhlC{RmEwEe@qB}@gI{@_GoAoDMedAo]puCclHhl@yiAzD{Hlx@i_Br[_o@fg@edApTgd@Zm@tq@ytA~a@sz@`@g@b\\oo@Zo@b@w@xa@ux@vAqCze@vGvG|C|i@~X~p@dHrq@`Hlu@jIjJtCvt@`V`AhA`h@vOteFdyBdy@x@xe@xNzc@jLz^lPv^xD\\FheApXxe@nNtiDnrBvElWwOb[mm@jmAnh@ri@~j@bl@~`@|a@z@z@xG`Hd@jCsdB`eDmaAnjBmYrb@|b@|U~d@dl@nMpArVeh@jp@ofBfEnE`WpWx@x@vl@bn@nAvAj_@~_@zNfOrL|L??xnBhvBl@~BpCjApqEr_FosEniJ_|BvyEooBo}@dP_j@PK|HkAeFqDnCeJovAwcA_|B~nC_jAvtCg_G_mE_n@qOoTgMwRqFamBgi@]?e`A_XizBsg@mWgFa]{GmO{Bai@_IyQoC{eAsWgCuPaIai@m[ouBmUw|AgoAa~INaJ`@}DaEqAkByMilAaa@uLsJcEcCeAm@qDmCqEuDaHaFyGgEkB[qMkDuCo@kJuAsIoBaHcCkUyGiEiAkJaDiOuEgE_A",
+              "encodedCoordinatesMd5": "8942d898e90006e821e68628a58690f4",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "9331d9ba0eb1d630330de7929600c34a"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-08-23T19:55:00.599Z",
+    "lastModifiedDate": "2017-08-23T19:55:00.599Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789033,
+    "title": "Flash Flood Warning until 09:30PM Monday",
+    "body": "region: 83896 polygon: 40.6,-74.46 40.66,-74.4 40.66,-74.45 40.7,-74.43 40.74,-74.37 40.82,-74.33 40.91,-74.33 40.9,-74.27 40.97,-74.28 40.99,-74.21 41.17,-74.11 41.13,-73.72 40.99,-73.65 40.83,-73.79 40.83,-73.8 40.74,-73.71 40.67,-74.03 40.7,-74.03 40.65,-74.1 40.6,-74.46",
+    "rtfContent": "region: 83896 polygon: 40.6,-74.46 40.66,-74.4 40.66,-74.45 40.7,-74.43 40.74,-74.37 40.82,-74.33 40.91,-74.33 40.9,-74.27 40.97,-74.28 40.99,-74.21 41.17,-74.11 41.13,-73.72 40.99,-73.65 40.83,-73.79 40.83,-73.8 40.74,-73.71 40.67,-74.03 40.7,-74.03 40.65,-74.1 40.6,-74.46",
+    "organizationName": "Lodi NJ Fake",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Flood Warning",
+      "instructions": "",
+      "severity": "Severe",
+      "urgency": "Immediate"
+    },
+    "startDate": "2017-08-23T19:53:50.000Z",
+    "endDate": "2099-01-01T08:00:05.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5055439",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "ie|~lAtimhlC{RmEwEe@qB}@gI{@_GoA_Ms@wGWwJs@{Ds@sEsAsEw@oKkBuIuAeA?lAmNJcHNiDx@oLtAeLpByKlCqK`CoHxDeJfQa]|Yuk@xJuRnO_Zjt@_wArn@wmAzD{Hlx@i_Br[_o@fg@edApTgd@Zm@tq@ytA~a@sz@`@g@b\\oo@Zo@b@w@xa@ux@rGkMvh@nV|i@~X~p@dHrq@`Hlu@jIjJtCvt@`V`AhA`h@vOteFdyBdy@x@xe@xNlWrEhk@dWv^xDpc@bIbRnHzu@zTffAh^fKtFbTrOvDzCzhAzaAaWng@mm@jmAnh@ri@~j@bl@~`@|a@z@z@dJnJyeB~fDmaAnjBmYrb@|b@|U~d@dl@nMpArVeh@jp@ofBfEnE`WpWx@x@vl@bn@nAvAj_@~_@zNfO~QlRb[x[~l@`n@~VrWpDdDdCbKlRbI|MrMzDeE|}DdwEi`@nx@oVpg@sfB~qD}bAjtBshBh_DgZlk@s@tAoGuIaDqEi@cBeHsIwLgNyAcBoD`@wAb@oCp@}EbAuEZwIYeDI}KsJiHmPgDmQZ_KnEaMPc@hEaHvIwE|HkAgsAm`A}z@vxAae@x\\g_@vXsVdo@sVbo@oV|n@qrAwfAeA_AyqAafAi]eTsr@ga@enAms@wRqFamBgi@]?e`A_XizBsg@mWgFa]{GmO{Bai@_IoYiEq|@_O{DoWaIai@m[ouBa`@}hCeL_v@{Kst@}Keu@mK{r@uN}aAqAiWP_K`@}DiEuAuBq@{HqA}YwHsDaAwGaEiFaGmIaKoTgQcEcCeAm@qDmCqEuDaHaFyGgEkB[qMkDuCo@kJuAsIoBaHcCkUyGiEiAkJaDiOuEgE_A",
+              "encodedCoordinatesMd5": "ed5bd670c538a86c440826cba2612fd4",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "88097be509c5670c5d1f592e693b3548"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-08-23T19:50:00.560Z",
+    "lastModifiedDate": "2017-08-23T19:50:00.560Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789031,
+    "title": "Flash Flood Warning until 09:30PM Monday",
+    "body": "text",
+    "rtfContent": "text",
+    "organizationName": "Lodi NJ Fake",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Flood Warning",
+      "instructions": "",
+      "severity": "Severe",
+      "urgency": "Immediate"
+    },
+    "startDate": "2017-08-23T19:49:11.000Z",
+    "endDate": "2099-01-01T08:00:03.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5055433",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "m``_mAx|khlCv`EobKfqHo_O~xFfw@ntL~fEfmE~iA~mDluB~iAvkGg^pfFvsM`sNosEniJ_|BvyEooBo}@~Wo}@ovAwcA_|B~nC_jAvtCg_G_mEwpQomE_uCioSwoJoaD",
+              "encodedCoordinatesMd5": "22a657b0b346ed59169ff345b8333a96",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "fbcaa4d6865c9c473bb88c673a2b270e"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-08-23T19:15:00.503Z",
+    "lastModifiedDate": "2017-08-23T19:15:00.503Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789030,
+    "title": "Flash Flood Warning until 09:30PM Monday",
+    "body": "No Polygon!",
+    "rtfContent": "No Polygon!",
+    "organizationName": "Lodi NJ Fake",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Flood Warning",
+      "instructions": "",
+      "severity": "Severe",
+      "urgency": "Immediate"
+    },
+    "startDate": "2017-08-23T19:10:43.000Z",
+    "endDate": "2099-01-01T08:00:02.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5055427",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "ie|~lAtimhlC{RmEwEe@qB}@gI{@_GoA_Ms@wGWwJs@{Ds@sEsAsEw@oKkBuIuAeA?lAmNJcHNiDx@oLtAeLpByKlCqK`CoHxDeJfQa]|Yuk@xJuRnO_Zjt@_wArn@wmAzD{Hlx@i_Br[_o@fg@edApTgd@Zm@tq@ytA~a@sz@`@g@b\\oo@Zo@b@w@xa@ux@rGkMvh@nV|i@~X~p@dHrq@`Hlu@jIjJtCvt@`V`AhA`h@vOteFdyBdy@x@xe@xNlWrEhk@dWv^xDpc@bIbRnHzu@zTffAh^fKtFbTrOvDzCzhAzaAaWng@mm@jmAnh@ri@~j@bl@~`@|a@z@z@dJnJyeB~fDmaAnjBmYrb@|b@|U~d@dl@nMpArVeh@jp@ofBfEnE`WpWx@x@vl@bn@nAvAj_@~_@zNfO~QlRb[x[~l@`n@~VrWpDdDdCbKlRbI|MrMzDeE|}DdwEi`@nx@oVpg@sfB~qD}bAjtBshBh_DgZlk@s@tAoGuIaDqEi@cBeHsIwLgNyAcBoD`@wAb@oCp@}EbAuEZwIYeDI}KsJiHmPgDmQZ_KnEaMPc@hEaHvIwE|HkAgsAm`A}z@vxAae@x\\g_@vXsVdo@sVbo@oV|n@qrAwfAeA_AyqAafAi]eTsr@ga@enAms@wRqFamBgi@]?e`A_XizBsg@mWgFa]{GmO{Bai@_IoYiEq|@_O{DoWaIai@m[ouBa`@}hCeL_v@{Kst@}Keu@mK{r@uN}aAqAiWP_K`@}DiEuAuBq@{HqA}YwHsDaAwGaEiFaGmIaKoTgQcEcCeAm@qDmCqEuDaHaFyGgEkB[qMkDuCo@kJuAsIoBaHcCkUyGiEiAkJaDiOuEgE_A",
+              "encodedCoordinatesMd5": "ed5bd670c538a86c440826cba2612fd4",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "88097be509c5670c5d1f592e693b3548"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-08-23T19:10:00.490Z",
+    "lastModifiedDate": "2017-08-23T19:10:00.490Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789029,
+    "title": "Flash Flood Warning until 09:30PM Monday",
+    "body": "... Lincoln; Sublette Area.\\nThis text has\\nnewlines\\n\\nwhich might cause problems ...",
+    "rtfContent": "... Lincoln; Sublette Area.\\nThis text has\\nnewlines\\n\\nwhich might cause problems ...",
+    "organizationName": "Lodi NJ Fake",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Flood Warning",
+      "instructions": "",
+      "severity": "Severe",
+      "urgency": "Immediate"
+    },
+    "startDate": "2017-08-23T19:06:37.000Z",
+    "endDate": "2099-01-01T08:00:01.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5055425",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "ie|~lAtimhlC{RmEwEe@qB}@gI{@_GoA_Ms@wGWwJs@{Ds@sEsAsEw@oKkBuIuAeA?lAmNJcHNiDx@oLtAeLpByKlCqK`CoHxDeJfQa]|Yuk@xJuRnO_Zjt@_wArn@wmAzD{Hlx@i_Br[_o@fg@edApTgd@Zm@tq@ytA~a@sz@`@g@b\\oo@Zo@b@w@xa@ux@rGkMvh@nV|i@~X~p@dHrq@`Hlu@jIjJtCvt@`V`AhA`h@vOteFdyBdy@x@xe@xNlWrEhk@dWv^xDpc@bIbRnHzu@zTffAh^fKtFbTrOvDzCzhAzaAaWng@mm@jmAnh@ri@~j@bl@~`@|a@z@z@dJnJyeB~fDmaAnjBmYrb@|b@|U~d@dl@nMpArVeh@jp@ofBfEnE`WpWx@x@vl@bn@nAvAj_@~_@zNfO~QlRb[x[~l@`n@~VrWpDdDdCbKlRbI|MrMzDeE|}DdwEi`@nx@oVpg@sfB~qD}bAjtBshBh_DgZlk@s@tAoGuIaDqEi@cBeHsIwLgNyAcBoD`@wAb@oCp@}EbAuEZwIYeDI}KsJiHmPgDmQZ_KnEaMPc@hEaHvIwE|HkAgsAm`A}z@vxAae@x\\g_@vXsVdo@sVbo@oV|n@qrAwfAeA_AyqAafAi]eTsr@ga@enAms@wRqFamBgi@]?e`A_XizBsg@mWgFa]{GmO{Bai@_IoYiEq|@_O{DoWaIai@m[ouBa`@}hCeL_v@{Kst@}Keu@mK{r@uN}aAqAiWP_K`@}DiEuAuBq@{HqA}YwHsDaAwGaEiFaGmIaKoTgQcEcCeAm@qDmCqEuDaHaFyGgEkB[qMkDuCo@kJuAsIoBaHcCkUyGiEiAkJaDiOuEgE_A",
+              "encodedCoordinatesMd5": "ed5bd670c538a86c440826cba2612fd4",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "88097be509c5670c5d1f592e693b3548"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-08-23T18:40:00.762Z",
+    "lastModifiedDate": "2017-08-23T18:40:00.762Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789027,
+    "title": "Flash Flood Warning until 09:30PM Monday",
+    "body": "... Lincoln; Sublette Area.\\nThis text has\\nnewlines\\n\\nwhich might cause problems ...",
+    "rtfContent": "... Lincoln; Sublette Area.\\nThis text has\\nnewlines\\n\\nwhich might cause problems ...",
+    "organizationName": "Teton Fake",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Met",
+      "certainty": "Likely",
+      "eventDescription": "Flood Warning",
+      "instructions": "",
+      "severity": "Severe",
+      "urgency": "Immediate"
+    },
+    "startDate": "2017-08-23T18:36:17.000Z",
+    "endDate": "2099-04-01T23:30:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5055417",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "mo{hrA~uuxrEsA^ob@Ls`@LwODO?afBf@C?{yErA{Ul@eL_@qcBf@}B@cSFw^JO?_IBchOhEirTbBy`\\lGkwGZuAS{sKpC????g|KpCgfJHqh@@g~@@snABe@?_h@@}X?W?wkA@_B?eA?kE?gF?qH?isDDqwB@a@?yaBBS?}iB@{u@BK?ihHRkdBWS?gyCc@iGAsjBY_qASspGh@mtGj@K?wzBRK?sG?sHAq@?gz@EcA?s@?oD?s@?a@?S?EA_F?I?wnAGcSAqmSvAkpU`BaAsF_B?I?mv@Ks]GcKvCu@?mW?_yBCw@?eXV`wBi~aEzsbGxtAsHt`~D",
+              "encodedCoordinatesMd5": "ec32729962e4b2cb57623adfba084099",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "bd8a92737032e02b70983b0ed4bdf9c7"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-08-21T17:15:00.523Z",
+    "lastModifiedDate": "2017-08-21T17:15:00.523Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789021,
+    "title": "911 Telephone Outage until 01:00AM Tuesday",
+    "body": "This is the detailed description. Front page test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "rtfContent": "This is the detailed description. Front page test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "organizationName": "Duarte Stage",
+    "organizationLogos": [
+
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "Instructions for this alert.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2017-08-21T17:14:37.000Z",
+    "endDate": "2037-12-01T08:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5055279",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "}pgb`Ap_r~_Fly@j_@|jClyB_Gfb@piEzfEdhJnxJfoBdsC~eBzjD|lBvaCb[ztDdCvg@dk@zuH{hBuA}}Am`@id@{YF|tMkLaAvAjl@ThtBvAzvBoU}z@{`@kMyRfeAoEjp@`y@fVfXdG|NllAalBqj@u`Cmq@g}Amd@ym@wPkm@sPchC{t@oXoI{{Awc@kt@wPc}@uDlf@g{Cg\\{nAm[_ZB}~@zh@az@rPmeAwoBij@os@mWuFcOcFCabCg@cfGx@eo@yAuBMgCi{DVggDwCEop@ql@yY{BsqCaEg@ksHuQAsBe@o@s@_BcIu@sjIYczA{_@yjAd_@n@hCceCpAcKyAwuOq@ebG?ePywLIapAjiOasXdDfAkgL_BirHwm@raByQjgB{z@h}@w_@f`AuFliByy@prAyrArEo|CzgA{Hcv@_o@ePkoBz]w_A_p@koAyCaUsm@s~Agk@{@|hI}tQbBmyCVetBicAye@uy@QwhCknC~|@qM~[caKb\\hWip@cuA{cA_@hgAut@mBk`@|d@}xAtYu~ArCmqAce@wSlx@wo@ti@ab@qGyg@vq@ks@|[}cA{`@fVqz@qiDmx@gPwk@vbAyrAsY_r@o{@{WmD_nAo_@cdAscA|q@s[yEyLccAqg@sx@{G}yA{l@usAk@wjAmj@afAmCumBfX}bA}gAisAdQo\\cIgzCsb@y`A`k@m^mNgnAad@gcA|WyqAm@anA_jAmuAYc|HffUyJ`xUcKz|Ac@vp@Q`uFkHAsKdhw@vDvjQKcD{vBed@oVhBixBqmA{ApCuwKsLk@kdBs}Bj_A?t_Atz@vwCpcGrgAd~@lqEvBp|AarBr_CnEAhgJ}f@t|Czb@MjSpV`rJ`kLiO|vAjYjaAnyFt`Hf_Cbk@||CjwD~nCzuCqkCnaK_W~zBd@v{GtO~U",
+              "encodedCoordinatesMd5": "6953653236d3fd4a2207d9bf943fe767",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "38f6d7702dfa7563487542c98c86ce21"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-07-20T00:40:00.675Z",
+    "lastModifiedDate": "2017-07-20T00:40:00.675Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507789000,
+    "title": "911 Telephone Outage until 01:00AM Sunday",
+    "body": "This is the detailed description. 05.30 stage pm test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "rtfContent": "This is the detailed description. 05.30 stage pm test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "organizationName": "Everbridge QA1",
+    "organizationLogos": [
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/org/user30485-1426887481-None",
+        "logoSize": "default"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/lg/user30485-1426887481-None_333c41_138_67_PrsMe_.jpeg",
+        "logoSize": "large"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/md/user30485-1426887481-None_30393e_88_43_PrsMe_.jpeg",
+        "logoSize": "medium"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/sm/user30485-1426887481-None_2d363b_48_23_PrsMe_.jpeg",
+        "logoSize": "small"
+      }
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "Instructions for this alert.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2017-07-20T00:35:59.000Z",
+    "endDate": "2038-04-11T07:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5054701",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "olzg`Apoip`FlbBnAn{BusGl_Br@uUiv@lmCarEol@}a@bx@BziAkyBts@zDv~AiyClrFhArpAeaCc^ow@r|@{l@fb@udEzm@sYaXmoCfp@a^ue@mnHzkAF{tA}gIfrDBzc@|eDpaIuz@xwCusFlmAvf@juAcoAqBcgAnbCuuDv_Eb@~g@mmCzuLsiQyYgpH|lBocD~mI~~BhsDw]t_Fw_DraA`c@bdCmdD~iFgaAfAue@|dR{_Dzs@vNb@n}^i`DG`}@zxGbgEtiDtjAfyIwz@bg@cTxwMqn@`Oe|@t{Dm`@~jF`fCho@jm@zbBjt@vI`pNlVIonAdzC{F@llJbcALVveDlnB|StuJstA|lCteb@rfAlVfrCu{CrgChbEiiGt|G{aHtzE_~p@jpYpBp}DiwB`TijAnhAqZ~fCh}@fiPy{Dz|FqChpBfhAv~AifAvoI_tClhFmgSasTmlBzmC_yDuaEq|@|rAqdM_hNgkE{{BlqBasGeuG_nEas_@rNqi[loTgJcqn@k_d@sGnZik@yiC_@s_Onh@b_@}tAecCaAbFwbPwc\\zJrEuva@n}[}D{Af|G|cJ~Dzh@xg@}ZlgAvqC|jBdC`~Axhf@pJ",
+              "encodedCoordinatesMd5": "17be87afd737a96cf87fdf82d02d68cb",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "2c78d86b72a479aed31adef8526a81a2"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-07-20T00:20:00.717Z",
+    "lastModifiedDate": "2017-07-20T00:20:00.717Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507788999,
+    "title": "911 Telephone Outage until 01:00AM Monday",
+    "body": "This is the detailed description. 05.20 stage pm test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "rtfContent": "This is the detailed description. 05.20 stage pm test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "organizationName": "Everbridge QA1",
+    "organizationLogos": [
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/org/user30485-1426887481-None",
+        "logoSize": "default"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/lg/user30485-1426887481-None_333c41_138_67_PrsMe_.jpeg",
+        "logoSize": "large"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/md/user30485-1426887481-None_30393e_88_43_PrsMe_.jpeg",
+        "logoSize": "medium"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/sm/user30485-1426887481-None_2d363b_48_23_PrsMe_.jpeg",
+        "logoSize": "small"
+      }
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "Instructions for this alert.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2017-07-20T00:18:46.000Z",
+    "endDate": "2042-12-08T08:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5054693",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "olzg`Apoip`FlbBnAn{BusGl_Br@uUiv@lmCarEol@}a@bx@BziAkyBts@zDv~AiyClrFhArpAeaCc^ow@r|@{l@fb@udEzm@sYaXmoCfp@a^ue@mnHzkAF{tA}gIfrDBzc@|eDpaIuz@xwCusFlmAvf@juAcoAqBcgAnbCuuDv_Eb@~g@mmCzuLsiQyYgpH|lBocD~mI~~BhsDw]t_Fw_DraA`c@bdCmdD~iFgaAfAue@|dR{_Dzs@vNb@n}^i`DG`}@zxGbgEtiDtjAfyIwz@bg@cTxwMqn@`Oe|@t{Dm`@~jF`fCho@jm@zbBjt@vI`pNlVIonAdzC{F@llJbcALVveDlnB|StuJstA|lCteb@rfAlVfrCu{CrgChbEiiGt|G{aHtzE_~p@jpYpBp}DiwB`TijAnhAqZ~fCh}@fiPy{Dz|FqChpBfhAv~AifAvoI_tClhFmgSasTmlBzmC_yDuaEq|@|rAqdM_hNgkE{{BlqBasGeuG_nEas_@rNqi[loTgJcqn@k_d@sGnZik@yiC_@s_Onh@b_@}tAecCaAbFwbPwc\\zJrEuva@n}[}D{Af|G|cJ~Dzh@xg@}ZlgAvqC|jBdC`~Axhf@pJ",
+              "encodedCoordinatesMd5": "17be87afd737a96cf87fdf82d02d68cb",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "2c78d86b72a479aed31adef8526a81a2"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-07-19T23:45:00.768Z",
+    "lastModifiedDate": "2017-07-19T23:45:00.768Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507788998,
+    "title": "911 Telephone Outage until 01:00AM Thursday",
+    "body": "This is the detailed description. 04.40 stage pm test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "rtfContent": "This is the detailed description. 04.40 stage pm test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "organizationName": "Everbridge QA1",
+    "organizationLogos": [
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/org/user30485-1426887481-None",
+        "logoSize": "default"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/lg/user30485-1426887481-None_333c41_138_67_PrsMe_.jpeg",
+        "logoSize": "large"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/md/user30485-1426887481-None_30393e_88_43_PrsMe_.jpeg",
+        "logoSize": "medium"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/sm/user30485-1426887481-None_2d363b_48_23_PrsMe_.jpeg",
+        "logoSize": "small"
+      }
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "Instructions for this alert.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2017-07-19T23:43:34.000Z",
+    "endDate": "2035-03-08T08:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5054689",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "olzg`Apoip`FlbBnAn{BusGl_Br@uUiv@lmCarEol@}a@bx@BziAkyBts@zDv~AiyClrFhArpAeaCc^ow@r|@{l@fb@udEzm@sYaXmoCfp@a^ue@mnHzkAF{tA}gIfrDBzc@|eDpaIuz@xwCusFlmAvf@juAcoAqBcgAnbCuuDv_Eb@~g@mmCzuLsiQyYgpH|lBocD~mI~~BhsDw]t_Fw_DraA`c@bdCmdD~iFgaAfAue@|dR{_Dzs@vNb@n}^i`DG`}@zxGbgEtiDtjAfyIwz@bg@cTxwMqn@`Oe|@t{Dm`@~jF`fCho@jm@zbBjt@vI`pNlVIonAdzC{F@llJbcALVveDlnB|StuJstA|lCteb@rfAlVfrCu{CrgChbEiiGt|G{aHtzE_~p@jpYpBp}DiwB`TijAnhAqZ~fCh}@fiPy{Dz|FqChpBfhAv~AifAvoI_tClhFmgSasTmlBzmC_yDuaEq|@|rAqdM_hNgkE{{BlqBasGeuG_nEas_@rNqi[loTgJcqn@k_d@sGnZik@yiC_@s_Onh@b_@}tAecCaAbFwbPwc\\zJrEuva@n}[}D{Af|G|cJ~Dzh@xg@}ZlgAvqC|jBdC`~Axhf@pJ",
+              "encodedCoordinatesMd5": "17be87afd737a96cf87fdf82d02d68cb",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "2c78d86b72a479aed31adef8526a81a2"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-07-19T23:40:00.817Z",
+    "lastModifiedDate": "2017-07-19T23:40:00.817Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507788997,
+    "title": "911 Telephone Outage until 02:00AM Wednesday",
+    "body": "This is the detailed description. 04.35 stage pm test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "rtfContent": "This is the detailed description. 04.35 stage pm test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "organizationName": "Everbridge QA1",
+    "organizationLogos": [
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/org/user30485-1426887481-None",
+        "logoSize": "default"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/lg/user30485-1426887481-None_333c41_138_67_PrsMe_.jpeg",
+        "logoSize": "large"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/md/user30485-1426887481-None_30393e_88_43_PrsMe_.jpeg",
+        "logoSize": "medium"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/sm/user30485-1426887481-None_2d363b_48_23_PrsMe_.jpeg",
+        "logoSize": "small"
+      }
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "Instructions for this alert.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2017-07-19T23:36:29.000Z",
+    "endDate": "2025-09-10T07:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5054685",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "olzg`Apoip`FlbBnAn{BusGl_Br@uUiv@lmCarEol@}a@bx@BziAkyBts@zDv~AiyClrFhArpAeaCc^ow@r|@{l@fb@udEzm@sYaXmoCfp@a^ue@mnHzkAF{tA}gIfrDBzc@|eDpaIuz@xwCusFlmAvf@juAcoAqBcgAnbCuuDv_Eb@~g@mmCzuLsiQyYgpH|lBocD~mI~~BhsDw]t_Fw_DraA`c@bdCmdD~iFgaAfAue@|dR{_Dzs@vNb@n}^i`DG`}@zxGbgEtiDtjAfyIwz@bg@cTxwMqn@`Oe|@t{Dm`@~jF`fCho@jm@zbBjt@vI`pNlVIonAdzC{F@llJbcALVveDlnB|StuJstA|lCteb@rfAlVfrCu{CrgChbEiiGt|G{aHtzE_~p@jpYpBp}DiwB`TijAnhAqZ~fCh}@fiPy{Dz|FqChpBfhAv~AifAvoI_tClhFmgSasTmlBzmC_yDuaEq|@|rAqdM_hNgkE{{BlqBasGeuG_nEas_@rNqi[loTgJcqn@k_d@sGnZik@yiC_@s_Onh@b_@}tAecCaAbFwbPwc\\zJrEuva@n}[}D{Af|G|cJ~Dzh@xg@}ZlgAvqC|jBdC`~Axhf@pJ",
+              "encodedCoordinatesMd5": "17be87afd737a96cf87fdf82d02d68cb",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "2c78d86b72a479aed31adef8526a81a2"
+  },
+  {
+    "accountId": 0,
+    "status": "A",
+    "createdId": 0,
+    "lastModifiedId": 0,
+    "createdDate": "2017-07-19T23:00:00.704Z",
+    "lastModifiedDate": "2017-07-19T23:00:00.704Z",
+    "organizationId": 0,
+    "resourceBundleId": 0,
+    "id": 241935507788996,
+    "title": "911 Telephone Outage until 02:00AM Tuesday",
+    "body": "This is the detailed description. 03.55 pm test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "rtfContent": "This is the detailed description. 03.55 pm test\n\n* AFFECTED AREAS: DESCRIPTION OF AFFECTED AREAS",
+    "organizationName": "Everbridge QA1",
+    "organizationLogos": [
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/org/user30485-1426887481-None",
+        "logoSize": "default"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/lg/user30485-1426887481-None_333c41_138_67_PrsMe_.jpeg",
+        "logoSize": "large"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/md/user30485-1426887481-None_30393e_88_43_PrsMe_.jpeg",
+        "logoSize": "medium"
+      },
+      {
+        "url": "https://s3.amazonaws.com/nixlestage/uploads/agency_logos/sm/user30485-1426887481-None_2d363b_48_23_PrsMe_.jpeg",
+        "logoSize": "small"
+      }
+    ],
+    "type": "Nixle",
+    "priority": "P1",
+    "cap": {
+      "category": "Geo",
+      "certainty": "Observed",
+      "eventDescription": "911 Telephone Outage",
+      "instructions": "Instructions for this alert.",
+      "severity": "Minor",
+      "urgency": "Expected"
+    },
+    "startDate": "2017-07-19T22:55:15.000Z",
+    "endDate": "2032-06-01T07:00:00.000Z",
+    "attachments": [
+
+    ],
+    "images": [
+
+    ],
+    "nixleAlertFeedStatus": "Active",
+    "alertFeedStatus": "Active",
+    "originalFeedId": "5054679",
+    "address": {
+      "streetAddress": "",
+      "city": "",
+      "state": "",
+      "postalCode": ""
+    },
+    "encodedSimplifyGeoJsonGeometryCollection": {
+      "type": "GeometryCollection",
+      "encodedCoordinates": [
+        {
+          "type": "MultiPolygon",
+          "encodedCoordinates": [
+            {
+              "type": "Polygon",
+              "encodedCoordinatesString": "olzg`Apoip`FlbBnAn{BusGl_Br@uUiv@lmCarEol@}a@bx@BziAkyBts@zDv~AiyClrFhArpAeaCc^ow@r|@{l@fb@udEzm@sYaXmoCfp@a^ue@mnHzkAF{tA}gIfrDBzc@|eDpaIuz@xwCusFlmAvf@juAcoAqBcgAnbCuuDv_Eb@~g@mmCzuLsiQyYgpH|lBocD~mI~~BhsDw]t_Fw_DraA`c@bdCmdD~iFgaAfAue@|dR{_Dzs@vNb@n}^i`DG`}@zxGbgEtiDtjAfyIwz@bg@cTxwMqn@`Oe|@t{Dm`@~jF`fCho@jm@zbBjt@vI`pNlVIonAdzC{F@llJbcALVveDlnB|StuJstA|lCteb@rfAlVfrCu{CrgChbEiiGt|G{aHtzE_~p@jpYpBp}DiwB`TijAnhAqZ~fCh}@fiPy{Dz|FqChpBfhAv~AifAvoI_tClhFmgSasTmlBzmC_yDuaEq|@|rAqdM_hNgkE{{BlqBasGeuG_nEas_@rNqi[loTgJcqn@k_d@sGnZik@yiC_@s_Onh@b_@}tAecCaAbFwbPwc\\zJrEuva@n}[}D{Af|G|cJ~Dzh@xg@}ZlgAvqC|jBdC`~Axhf@pJ",
+              "encodedCoordinatesMd5": "17be87afd737a96cf87fdf82d02d68cb",
+              "multi": false
+            }
+          ],
+          "multi": true
+        }
+      ],
+      "multi": true
+    },
+    "encodedSimplifyGeoJsonGeometryCollectionMD5": "2c78d86b72a479aed31adef8526a81a2"
+  }
+]

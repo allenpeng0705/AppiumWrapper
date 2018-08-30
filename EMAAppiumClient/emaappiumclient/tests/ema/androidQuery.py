@@ -1,5 +1,6 @@
 from emaappiumclient.tests.ema.query import query
 
+
 class androidQuery(query):
     """
     The unified interface for looking for UI elements on both iOS and android. You can search the view
@@ -48,6 +49,13 @@ class androidQuery(query):
     }
     """
 
+    def app_permission_allow(self):
+        return {
+            'Platform': 'android',
+            'Type': 'AndroidResourceID',
+            'QueryString': 'com.android.packageinstaller:id/permission_allow_button'
+        }
+
     def login_welcome_loginBtn(self):
         return {
             'Platform': 'android',
@@ -56,7 +64,11 @@ class androidQuery(query):
         }
 
     def login_welcome_startUsingBtn(self):
-        pass
+        return {
+            'Platform': 'android',
+            'Type': 'AndroidResourceID',
+            'QueryString': "com.everbridge.mobile.iv.recipient:id/tv_quickstart"
+        }
 
     def login_login_SSOBtn(self):
         return {
@@ -71,7 +83,7 @@ class androidQuery(query):
             'Type': 'AndroidResourceID',
             'QueryString': "com.everbridge.mobile.iv.recipient:id/top_left_action_tv"
         }
-    
+
     def login_sso_backBtn(self):
         return {
             'Platform': 'android',
@@ -93,7 +105,60 @@ class androidQuery(query):
             'QueryString': "com.everbridge.mobile.iv.recipient:id/edt_password"
         }
 
+    # top bar
+    def top_bar_menu(self):
+        return {
+            'Platform': 'android',
+            'Type': 'AndroidResourceID',
+            'QueryString': "com.everbridge.mobile.iv.recipient: id / ib_menu"
+        }
 
+    def top_bar_switch(self):
+        return {
+            'Platform': 'android',
+            'Type': 'AndroidResourceID',
+            'QueryString': "com.everbridge.mobile.iv.recipient:id/ib_switch"
+        }
 
+    def top_bar_filter(self):
+        return {
+            'Platform': 'android',
+            'Type': 'AndroidResourceID',
+            'QueryString': "com.everbridge.mobile.iv.recipient:id/ib_msg_filter"
+        }
 
+    # left menu view
+    def menu_messages_item(self):
+        return {
+            'Platform': 'android',
+            'Type': 'AndroidResourceID',
+            'QueryString': "com.everbridge.mobile.iv.recipient:id/ll_message_item"
+        }
 
+    def menu_events_item(self):
+        return {
+            'Platform': 'android',
+            'Type': 'AndroidResourceID',
+            'QueryString': "com.everbridge.mobile.iv.recipient:id/ll_events_item"
+        }
+
+    def menu_local_item(self):
+        return {
+            'Platform': 'android',
+            'Type': 'AndroidResourceID',
+            'QueryString': "com.everbridge.mobile.iv.recipient:id/ll_local_item"
+        }
+
+    def menu_calendar_item(self):
+        return {
+            'Platform': 'android',
+            'Type': 'AndroidResourceID',
+            'QueryString': "com.everbridge.mobile.iv.recipient:id/ll_calendar_item"
+        }
+
+    def menu_settings_item(self):
+        return {
+            'Platform': 'android',
+            'Type': 'AndroidResourceID',
+            'QueryString': "com.everbridge.mobile.iv.recipient:id/ll_setting_item"
+        }
