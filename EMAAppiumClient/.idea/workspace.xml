@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc6b86f4-2568-432d-b3ea-e61b17fc2820" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/images/android/local.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/anonymousLocal.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emaappiumclient/tests/ema/login/screenshots/android/welcome.png" afterPath="$PROJECT_DIR$/emaappiumclient/tests/ema/login/screenshots/android/welcome.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/emaappiumclient/tests/ema/settings/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/emaappiumclient/tests/ema/settings/settings.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emaappiumclient/tests/ema/androidQuery.py" afterPath="$PROJECT_DIR$/emaappiumclient/tests/ema/androidQuery.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="anonymousLocal.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="anonymousLocal.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/anonymousLocal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="219">
+              <caret line="39" column="52" lean-forward="true" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -31,11 +28,43 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="query.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/query.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="37" column="41" lean-forward="true" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iOSQuery.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/iOSQuery.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-778">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="androidQuery.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/androidQuery.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="144" column="23" lean-forward="false" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="23" />
+            <state relative-caret-position="602">
+              <caret line="164" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,7 +96,6 @@
         <option value="$PROJECT_DIR$/EMAAppiumClient/main.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/util/driver/androiddriver.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/util/unittest/testLoader.py" />
-        <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/query.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/conf/globalconf.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/util/driver/driver.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/login/welcome.py" />
@@ -87,6 +115,12 @@
         <option value="$PROJECT_DIR$/emaappiumclient/json/message" />
         <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/androidQuery.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/anonymousLocal.py" />
+        <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/setting/settings.py" />
+        <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/query.py" />
+        <option value="$PROJECT_DIR$/emaappiumclient/json/getPro.json" />
+        <option value="$PROJECT_DIR$/emaappiumclient/json/getOrgSettings.json" />
+        <option value="$PROJECT_DIR$/emaappiumclient/json/getPermissions.json" />
+        <option value="$PROJECT_DIR$/emaappiumclient/json/messagesJsonData.json" />
       </list>
     </option>
   </component>
@@ -119,6 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,18 +170,6 @@
               <item name="EMAAppiumClient" type="b2602c69:ProjectViewProjectNode" />
               <item name="EMAAppiumClient" type="462c0819:PsiDirectoryNode" />
               <item name="emaappiumclient" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EMAAppiumClient" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EMAAppiumClient" type="462c0819:PsiDirectoryNode" />
-              <item name="emaappiumclient" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EMAAppiumClient" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EMAAppiumClient" type="462c0819:PsiDirectoryNode" />
-              <item name="emaappiumclient" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -155,21 +178,6 @@
               <item name="emaappiumclient" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
               <item name="ema" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EMAAppiumClient" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EMAAppiumClient" type="462c0819:PsiDirectoryNode" />
-              <item name="emaappiumclient" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="ema" type="462c0819:PsiDirectoryNode" />
-              <item name="anonymous" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EMAAppiumClient" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EMAAppiumClient" type="462c0819:PsiDirectoryNode" />
-              <item name="emaappiumclient" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EMAAppiumClient" type="b2602c69:ProjectViewProjectNode" />
@@ -182,7 +190,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,10 +198,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/messages" />
+      <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/settings" />
+      <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/setting" />
       <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/images/android" />
       <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous" />
-      <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/login/images/android" />
-      <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/login" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -446,10 +454,10 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in quickStart.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for quickStart.quickStart.test_startUsingNow_btn" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for anonymousLocal.anonymousLocal.test_ui" />
-      <item index="3" class="java.lang.String" itemvalue="Jupyter Notebook.EMAAppiumClient" />
+      <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.EMAAppiumClient" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in quickStart.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for quickStart.quickStart.test_startUsingNow_btn" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for anonymousLocal.anonymousLocal.test_ui" />
       <item index="4" class="java.lang.String" itemvalue="Python.pycharm_load_entry_point" />
       <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests for anonymousLocal.anonymousLocal.test_menu_ui" />
     </list>
@@ -534,8 +542,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.226979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23021002" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -546,6 +553,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -561,59 +569,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/appium/webdriver/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="842" column="67" lean-forward="true" selection-start-line="842" selection-start-column="67" selection-end-line="842" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/iOSQuery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-433">
-          <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/images/iOS/login.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/images/iOS/sso.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="1317" column="0" lean-forward="false" selection-start-line="1317" selection-start-column="0" selection-end-line="1317" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/util/driver/driverFactory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/conf/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="578" column="0" lean-forward="true" selection-start-line="578" selection-start-column="0" selection-end-line="578" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-2010535109/binascii.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -757,7 +712,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messagesJsonData">
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messagesJsonData.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
@@ -769,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="558" column="0" lean-forward="false" selection-start-line="558" selection-start-column="0" selection-end-line="558" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,45 +731,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/ms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/mss.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messages.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/ms.py" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/m" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/mss.ipynb" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messages.ipynb" />
     <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/quickStart.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,9 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="145" column="26" lean-forward="true" selection-start-line="145" selection-start-column="26" selection-end-line="145" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -839,41 +762,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/images/android/local.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messagesJsonData">
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messagesJsonData.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2161" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/feedsJsonData">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messagesJsonData">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -882,41 +774,135 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
           <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/setting/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/query.py">
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/images/android/local.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/feedsJsonData.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="437">
+          <caret line="2807" column="4" lean-forward="true" selection-start-line="2807" selection-start-column="4" selection-end-line="2807" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/queryFactory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="255">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/androidQuery.py">
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/iOSQuery.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="144" column="23" lean-forward="false" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="23" />
+        <state relative-caret-position="-778">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/anonymousLocal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="219">
+          <caret line="39" column="52" lean-forward="true" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="37" column="41" lean-forward="true" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/androidQuery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="164" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/getPermissions.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/getOrgSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="103" column="41" lean-forward="true" selection-start-line="103" selection-start-column="41" selection-end-line="103" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messagesJsonData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="2312" column="46" lean-forward="true" selection-start-line="2312" selection-start-column="46" selection-end-line="2312" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/setting/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/settings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/settings/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/messages/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
