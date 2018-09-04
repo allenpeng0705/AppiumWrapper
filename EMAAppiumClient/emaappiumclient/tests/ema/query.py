@@ -48,3 +48,7 @@ class query(object):
 
     def menu_settings_item(self):
         pass
+
+    # message page
+    def msg_messages_list(self):
+        pass

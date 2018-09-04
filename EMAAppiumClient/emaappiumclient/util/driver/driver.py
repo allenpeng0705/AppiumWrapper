@@ -549,23 +549,24 @@ class driver(object):
             action = TouchActions(self.driver)
         else:
             action = touchActions
-        action.tap_and_hold(xPos, yPos)
+        action.press(xPos, yPos)
         if delayPerform == False:
             action.perform()
-            return action
-        return None
+        return action
 
-    def touchUp(self, xPos, yPos, touchActions=None, delayPerform=False):
+    def touchUp(self, touchActions=None, delayPerform=False):
         action = None
         if touchActions is None:
             action = TouchActions(self.driver)
         else:
             action = touchActions
-        action.release(xPos, yPos)
+        action.release()
         if delayPerform == False:
             action.perform()
-            return action
-        return None
+        return action
+
+    def swipe(self, start_x, start_y, end_x, end_y, duration):
+        self.driver.swipe(start_x, start_y, end_x, end_y, duration)
 
     def moveTo(self, xPos, yPos, touchActions=None, delayPerform=False):
         action = None
@@ -576,10 +577,9 @@ class driver(object):
         action.move(xPos, yPos)
         if delayPerform == False:
             action.perform()
-            return action
-        return None
+        return action
 
-    def scroolOnView(self, view, xOffset, yOffset, touchActions=None, delayPerform=False):
+    def scrollOnView(self, view, xOffset, yOffset, touchActions=None, delayPerform=False):
         action = None
         if touchActions is None:
             action = TouchActions(self.driver)
@@ -588,10 +588,9 @@ class driver(object):
         action.scroll_from_element(view, xOffset, yOffset)
         if delayPerform == False:
             action.perform()
-            return action
-        return None
+        return action
 
-    def scroolTo(self, xOffset, yOffset, touchActions=None, delayPerform=False):
+    def scrollTo(self, xOffset, yOffset, touchActions=None, delayPerform=False):
         action = None
         if touchActions is None:
             action = TouchActions(self.driver)
@@ -600,8 +599,7 @@ class driver(object):
         action.scroll(xOffset, yOffset)
         if delayPerform == False:
             action.perform()
-            return action
-        return None
+        return action
 
     def multiTouchPerform(self, *touchs):
         ma = MultiAction(self.driver)
@@ -611,4 +609,3 @@ class driver(object):
 
     def waitForSeconds(self, seconds):
         time.sleep(seconds)
-

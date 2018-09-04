@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc6b86f4-2568-432d-b3ea-e61b17fc2820" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/emaappiumclient/tests/ema/settings/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/emaappiumclient/tests/ema/settings/settings.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emaappiumclient/tests/ema/messages/images/android/messageList.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emaappiumclient/tests/ema/messages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emaappiumclient/tests/ema/messages/messageList.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emaappiumclient/tests/ema/androidQuery.py" afterPath="$PROJECT_DIR$/emaappiumclient/tests/ema/androidQuery.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emaappiumclient/tests/ema/query.py" afterPath="$PROJECT_DIR$/emaappiumclient/tests/ema/query.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emaappiumclient/util/driver/androiddriver.py" afterPath="$PROJECT_DIR$/emaappiumclient/util/driver/androiddriver.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emaappiumclient/util/driver/driver.py" afterPath="$PROJECT_DIR$/emaappiumclient/util/driver/driver.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="anonymousLocal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/anonymousLocal.py">
+      <file leaf-file-name="messageList.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/messages/messageList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="39" column="52" lean-forward="true" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
+            <state relative-caret-position="452">
+              <caret line="69" column="12" lean-forward="true" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -28,43 +33,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="query.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/query.py">
+      <file leaf-file-name="androiddriver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/emaappiumclient/util/driver/androiddriver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+            <state relative-caret-position="292">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/login.py">
+      <file leaf-file-name="driver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/emaappiumclient/util/driver/driver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="37" column="41" lean-forward="true" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iOSQuery.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/iOSQuery.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-778">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="377">
+              <caret line="574" column="13" lean-forward="true" selection-start-line="574" selection-start-column="13" selection-end-line="574" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="androidQuery.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/androidQuery.py">
+      <file leaf-file-name="webdriver.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/appium/webdriver/webdriver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="164" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+            <state relative-caret-position="256">
+              <caret line="285" column="22" lean-forward="true" selection-start-line="285" selection-start-column="22" selection-end-line="285" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -94,10 +87,8 @@
         <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/EMAAppiumClient/__init__.py" />
         <option value="$PROJECT_DIR$/EMAAppiumClient/main.py" />
-        <option value="$PROJECT_DIR$/emaappiumclient/util/driver/androiddriver.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/util/unittest/testLoader.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/conf/globalconf.py" />
-        <option value="$PROJECT_DIR$/emaappiumclient/util/driver/driver.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/login/welcome.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/login/devOptions.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/login/ssoLogin.py" />
@@ -113,14 +104,18 @@
         <option value="$PROJECT_DIR$/emaappiumclient/tests/example/sample01.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/json/feeds" />
         <option value="$PROJECT_DIR$/emaappiumclient/json/message" />
-        <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/androidQuery.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/anonymousLocal.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/setting/settings.py" />
-        <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/query.py" />
         <option value="$PROJECT_DIR$/emaappiumclient/json/getPro.json" />
         <option value="$PROJECT_DIR$/emaappiumclient/json/getOrgSettings.json" />
         <option value="$PROJECT_DIR$/emaappiumclient/json/getPermissions.json" />
         <option value="$PROJECT_DIR$/emaappiumclient/json/messagesJsonData.json" />
+        <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/androidQuery.py" />
+        <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/query.py" />
+        <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/messages/messageDistall.py" />
+        <option value="$PROJECT_DIR$/emaappiumclient/util/driver/androiddriver.py" />
+        <option value="$PROJECT_DIR$/emaappiumclient/util/driver/driver.py" />
+        <option value="$PROJECT_DIR$/emaappiumclient/tests/ema/messages/messageList.py" />
       </list>
     </option>
   </component>
@@ -153,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,12 +177,46 @@
               <item name="EMAAppiumClient" type="b2602c69:ProjectViewProjectNode" />
               <item name="EMAAppiumClient" type="462c0819:PsiDirectoryNode" />
               <item name="emaappiumclient" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="ema" type="462c0819:PsiDirectoryNode" />
+              <item name="messages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EMAAppiumClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EMAAppiumClient" type="462c0819:PsiDirectoryNode" />
+              <item name="emaappiumclient" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="ema" type="462c0819:PsiDirectoryNode" />
+              <item name="messages" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EMAAppiumClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EMAAppiumClient" type="462c0819:PsiDirectoryNode" />
+              <item name="emaappiumclient" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="ema" type="462c0819:PsiDirectoryNode" />
+              <item name="messages" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EMAAppiumClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EMAAppiumClient" type="462c0819:PsiDirectoryNode" />
+              <item name="emaappiumclient" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EMAAppiumClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EMAAppiumClient" type="462c0819:PsiDirectoryNode" />
+              <item name="emaappiumclient" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -198,11 +226,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/messages/images/android" />
       <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/messages" />
       <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/settings" />
       <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/setting" />
       <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/images/android" />
-      <recent name="$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for anonymousLocal.anonymousLocal.test_menu_ui">
+  <component name="RunManager" selected="Python tests.Unittests for messageList.messageList.test_menu_ui">
     <configuration name="EMAAppiumClient" type="Python.Ipnb" factoryName="Jupyter Notebook" activateToolWindowBeforeRun="false">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,33 +290,33 @@
       <option name="_new_target" value="&quot;anonymousLocal.anonymousLocal.test_ui&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for quickStart.quickStart.test_startUsingNow_btn" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for messageList.messageList.test_menu_ui" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/emaappiumclient/tests/ema/login" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/emaappiumclient/tests/ema/messages" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EMAAppiumClient" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;quickStart.quickStart.test_startUsingNow_btn&quot;" />
+      <option name="_new_target" value="&quot;messageList.messageList.test_menu_ui&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests in quickStart.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for messageList.messageList.test_ui" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/emaappiumclient/tests/ema/login" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/emaappiumclient/tests/ema/messages" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EMAAppiumClient" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/emaappiumclient/tests/ema/login/quickStart.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;messageList.messageList.test_ui&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -455,19 +483,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.EMAAppiumClient" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in quickStart.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for quickStart.quickStart.test_startUsingNow_btn" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for anonymousLocal.anonymousLocal.test_ui" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pycharm_load_entry_point" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests for anonymousLocal.anonymousLocal.test_menu_ui" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for anonymousLocal.anonymousLocal.test_ui" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pycharm_load_entry_point" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for anonymousLocal.anonymousLocal.test_menu_ui" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for messageList.messageList.test_ui" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests for messageList.messageList.test_menu_ui" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for anonymousLocal.anonymousLocal.test_menu_ui" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for anonymousLocal.anonymousLocal.test_ui" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pycharm_load_entry_point" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for quickStart.quickStart.test_startUsingNow_btn" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in quickStart.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for messageList.messageList.test_menu_ui" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for messageList.messageList.test_ui" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for anonymousLocal.anonymousLocal.test_menu_ui" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for anonymousLocal.anonymousLocal.test_ui" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pycharm_load_entry_point" />
       </list>
     </recent_temporary>
   </component>
@@ -491,35 +519,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_anonymousLocal_anonymousLocal_test_menu_ui - 2018.08.29 at 16h 50m 55s.xml">
-      <configuration name="Unittests for anonymousLocal.anonymousLocal.test_menu_ui" configurationId="tests" />
+    <history-entry file="Unittests_for_messageList_messageList_test_menu_ui - 2018.09.04 at 15h 44m 26s.xml">
+      <configuration name="Unittests for messageList.messageList.test_menu_ui" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_anonymousLocal_anonymousLocal_test_ui - 2018.08.29 at 16h 33m 52s.xml">
-      <configuration name="Unittests for anonymousLocal.anonymousLocal.test_ui" configurationId="tests" />
+    <history-entry file="Unittests_for_messageList_messageList_test_menu_ui - 2018.09.04 at 15h 48m 46s.xml">
+      <configuration name="Unittests for messageList.messageList.test_menu_ui" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_test_sso_btn - 2018.08.28 at 18h 42m 39s.xml">
-      <configuration name="Unittests for login.login.test_sso_btn" configurationId="tests" />
+    <history-entry file="Unittests_for_messageList_messageList_test_menu_ui - 2018.09.04 at 15h 57m 00s.xml">
+      <configuration name="Unittests for messageList.messageList.test_menu_ui" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_test_sso_btn - 2018.08.28 at 18h 45m 01s.xml">
-      <configuration name="Unittests for login.login.test_sso_btn" configurationId="tests" />
+    <history-entry file="Unittests_for_messageList_messageList_test_menu_ui - 2018.09.04 at 15h 59m 08s.xml">
+      <configuration name="Unittests for messageList.messageList.test_menu_ui" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_test_sso_btn - 2018.08.28 at 18h 58m 37s.xml">
-      <configuration name="Unittests for login.login.test_sso_btn" configurationId="tests" />
+    <history-entry file="Unittests_for_messageList_messageList_test_menu_ui - 2018.09.04 at 16h 03m 40s.xml">
+      <configuration name="Unittests for messageList.messageList.test_menu_ui" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_quickStart_quickStart_test_startUsingNow_btn - 2018.08.28 at 19h 01m 58s.xml">
-      <configuration name="Unittests for quickStart.quickStart.test_startUsingNow_btn" configurationId="tests" />
+    <history-entry file="Unittests_for_messageList_messageList_test_menu_ui - 2018.09.04 at 16h 05m 38s.xml">
+      <configuration name="Unittests for messageList.messageList.test_menu_ui" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_quickStart_quickStart_test_startUsingNow_btn - 2018.08.28 at 19h 04m 12s.xml">
-      <configuration name="Unittests for quickStart.quickStart.test_startUsingNow_btn" configurationId="tests" />
+    <history-entry file="Unittests_for_messageList_messageList_test_menu_ui - 2018.09.04 at 16h 06m 43s.xml">
+      <configuration name="Unittests for messageList.messageList.test_menu_ui" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_quickStart_quickStart_test_startUsingNow_btn - 2018.08.28 at 19h 05m 11s.xml">
-      <configuration name="Unittests for quickStart.quickStart.test_startUsingNow_btn" configurationId="tests" />
+    <history-entry file="Unittests_for_messageList_messageList_test_menu_ui - 2018.09.04 at 16h 09m 08s.xml">
+      <configuration name="Unittests for messageList.messageList.test_menu_ui" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_quickStart_quickStart_test_startUsingNow_btn - 2018.08.28 at 19h 07m 05s.xml">
-      <configuration name="Unittests for quickStart.quickStart.test_startUsingNow_btn" configurationId="tests" />
+    <history-entry file="Unittests_for_messageList_messageList_test_menu_ui - 2018.09.04 at 16h 11m 04s.xml">
+      <configuration name="Unittests for messageList.messageList.test_menu_ui" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_quickStart_py - 2018.08.28 at 19h 00m 20s.xml">
-      <configuration name="Unittests in quickStart.py" configurationId="tests" />
+    <history-entry file="Unittests_for_messageList_messageList_test_menu_ui - 2018.09.04 at 16h 12m 56s.xml">
+      <configuration name="Unittests for messageList.messageList.test_menu_ui" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -537,12 +565,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34457478" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23021002" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23667206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -565,125 +593,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-2010535109/binascii.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/base64.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="57" column="29" lean-forward="false" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/images/android/welcome.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/appium/webdriver/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="191" column="0" lean-forward="false" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="268" column="0" lean-forward="false" selection-start-line="268" selection-start-column="0" selection-end-line="268" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/util/unittest/baseTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/util/driver/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="261" column="8" lean-forward="false" selection-start-line="261" selection-start-column="8" selection-end-line="261" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/images/android/login.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/screenshots/android/login.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/images/android/sso.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/screenshots/android/sso.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/util/unittest/testLoader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="19" column="63" lean-forward="true" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/ssoLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="40" column="12" lean-forward="false" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/screenshots/android/anonymousMain.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/screenshots/android/anonymousMain.png" />
     <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/welcome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -712,14 +635,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messagesJsonData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messagesJsonData.json" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pkg_resources/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -752,24 +668,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/screenshots/android/welcome.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/screenshots/android/local.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messagesJsonData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2161" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/screenshots/android/welcome.png" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/screenshots/android/local.png" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messagesJsonData.json" />
     <entry file="file://$PROJECT_DIR$/emaappiumclient/conf/globalconf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
@@ -777,11 +678,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/setting/__init__.py">
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/setting/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/feedsJsonData.json" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="37" column="41" lean-forward="true" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/getPermissions.json" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/getOrgSettings.json" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messagesJsonData.json" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/setting/settings.py" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/settings/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/settings/settings.py" />
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/messages/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,10 +705,44 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/feedsJsonData.json">
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/anonymousLocal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="2807" column="4" lean-forward="true" selection-start-line="2807" selection-start-column="4" selection-end-line="2807" selection-end-column="4" />
+        <state relative-caret-position="25">
+          <caret line="22" column="37" lean-forward="false" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/messages/messageDistall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/iOSQuery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -806,103 +755,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/iOSQuery.py">
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/util/driver/driverFactory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-778">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#53#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/util/driver/iosdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#53#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/messages/images/android/messageList.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/util/unittest/baseTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/anonymous/anonymousLocal.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="39" column="52" lean-forward="true" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/login/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="37" column="41" lean-forward="true" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="365">
+          <caret line="258" column="0" lean-forward="true" selection-start-line="258" selection-start-column="0" selection-end-line="258" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/androidQuery.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="164" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+        <state relative-caret-position="308">
+          <caret line="119" column="76" lean-forward="true" selection-start-line="119" selection-start-column="76" selection-end-line="119" selection-end-column="76" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/getPermissions.json">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        <state relative-caret-position="143">
+          <caret line="579" column="0" lean-forward="false" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/getOrgSettings.json">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/appium/webdriver/common/touch_action.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="103" column="41" lean-forward="true" selection-start-line="103" selection-start-column="41" selection-end-line="103" selection-end-column="41" />
+        <state relative-caret-position="255">
+          <caret line="52" column="51" lean-forward="false" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/json/messagesJsonData.json">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/common/touch_actions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="2312" column="46" lean-forward="true" selection-start-line="2312" selection-start-column="46" selection-end-line="2312" selection-end-column="46" />
+        <state relative-caret-position="324">
+          <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/setting/settings.py">
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/messages/screenshots/android/messageList.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/messages/screenshots/android/left_menu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/messages/screenshots/android/scroolTo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/appium/webdriver/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="256">
+          <caret line="285" column="22" lean-forward="true" selection-start-line="285" selection-start-column="22" selection-end-line="285" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/settings/__init__.py">
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/util/driver/androiddriver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="292">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/query.py">
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/util/driver/driver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        <state relative-caret-position="377">
+          <caret line="574" column="13" lean-forward="true" selection-start-line="574" selection-start-column="13" selection-end-line="574" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/settings/settings.py">
+    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/messages/messageList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emaappiumclient/tests/ema/messages/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="452">
+          <caret line="69" column="12" lean-forward="true" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
