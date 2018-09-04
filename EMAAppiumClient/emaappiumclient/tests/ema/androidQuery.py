@@ -110,7 +110,7 @@ class androidQuery(query):
         return {
             'Platform': 'android',
             'Type': 'AndroidResourceID',
-            'QueryString': "com.everbridge.mobile.iv.recipient: id / ib_menu"
+            'QueryString': "com.everbridge.mobile.iv.recipient:id/ib_menu"
         }
 
     def top_bar_switch(self):
@@ -162,3 +162,11 @@ class androidQuery(query):
             'Type': 'AndroidResourceID',
             'QueryString': "com.everbridge.mobile.iv.recipient:id/ll_setting_item"
         }
+    # message page
+    def msg_messages_list(self):
+        return {
+            'Platform': 'android',
+            'Type': 'AndroidResourceID',
+            'QueryString': "com.everbridge.mobile.iv.recipient:id/rvMessages"
+        }
+
